@@ -143,19 +143,19 @@ prose:
             label: "Tags"
             options:
               - name: 'Revised'
-                value: 'Revised'
+                value: 'custom-translations.revised'
                 translation_key: custom-translations.revised
               - name: 'New'
-                value: 'New'
+                value: 'custom-translations.new'
                 translation_key: custom-translations.new
               - name: 'Non-Statistical'
-                value: 'Non-Statistical'
+                value: 'custom-translations.non_statistical'
                 translation_key: custom-translations.non_statistical
               - name: 'Proxy'
-                value: 'Proxy'
+                value: 'custom-translations.proxy'
                 translation_key: custom-translations.proxy
               - name: 'Integrated'
-                value: 'Integrated'
+                value: 'custom-translations.integrated'
                 translation_key: custom-translations.integrated
             scope: national
        ######### Data Info #########
