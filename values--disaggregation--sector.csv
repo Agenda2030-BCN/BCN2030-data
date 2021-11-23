@@ -1,9 +1,16 @@
 Value,Disaggregation combinations using this value,Number of indicators
+AOWDC,1,1
 Commerce,1,1
+Commerce_Consumption_Tourism,1,1
 Domestic,1,1
+Energy,1,1
+Housing,1,1
 Industrial,1,1
+Mobility and air quality,1,1
 Others,1,1
 Port and Airport,1,1
 Total Emissions,1,1
 Transport,1,1
+Urban green spaces,1,1
 Waste Treatment,1,1
+Waste,1,1
