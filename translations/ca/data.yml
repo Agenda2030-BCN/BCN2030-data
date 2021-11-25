@@ -6,7 +6,7 @@
 'Type': 'Tipus'
 'Percentage': 'Percentatge'
 'Type_Housing': 'Tipus Habitatge'
-'Total Number': 'Número Total'
+'Total Number': 'Nombre Total'
 'Roofless': 'Sense sostre'
 'Homeless': 'Sense habitatge'
 'Unsafe housing': 'Habitatge insegur'
@@ -71,7 +71,7 @@
 "Cultural activity": "Activitat cultural"
 "Male": "Home"
 "Female": "Dona"
-"Tonnes": "Tonelades"
+"Tonnes": "Tones"
 "Kg/inhabitant/day": "Kg/habitant/dia"
 "Domestic": "Domèstic"
 "Commerce": "Comerç"
@@ -99,3 +99,4 @@
 "Average days": "Mitjana de dies"
 "x1000 tons of CO2": "x1000 tones de CO2"
 "Difference between positive and negative responses": "Diferència entre respostes positives i negatives"
+"Million Euros": "Milions d'euros"
