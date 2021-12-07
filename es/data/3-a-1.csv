@@ -1,7 +1,7 @@
-Year,Sexo,Units,Value
-2016,,Porcentaje,19.2
-2016,Hombres,Porcentaje,23.7
-2016,Mujeres,Porcentaje,16.5
-2021(dada preliminar abril),,Porcentaje,18.8
-2021(dada preliminar abril),Hombres,Porcentaje,22.9
-2021(dada preliminar abril),Mujeres,Porcentaje,15.2
+Year,Gender,Units,Value
+2016,,Percentage,19.2
+2016,Men,Percentage,23.7
+2016,Women,Percentage,16.5
+2021(dada preliminar abril),,Percentage,18.8
+2021(dada preliminar abril),Men,Percentage,22.9
+2021(dada preliminar abril),Women,Percentage,15.2

@@ -1,7 +1,7 @@
-Year,Sexo,Units,Value
-2016,Hombre,Porcentaje,21.7
-2016,Mujer,Porcentaje,30.7
-2016,,Porcentaje,26.1
-2021(dada provisional),Hombre,Porcentaje,55.8
-2021(dada provisional),Mujer,Porcentaje,74.4
-2021(dada provisional),,Porcentaje,65.3
+Year,Gender,Units,Value
+2016,Male,Percentage,21.7
+2016,Female,Percentage,30.7
+2016,,Percentage,26.1
+2021(dada provisional),Male,Percentage,55.8
+2021(dada provisional),Female,Percentage,74.4
+2021(dada provisional),,Percentage,65.3
