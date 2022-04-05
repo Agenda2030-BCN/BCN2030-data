@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          },
+          {
+            "name": "Type_Cultural_Service",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biblioteca pública",
+                "Festival popular",
+                "Activitat cultural",
+                ""
+              ]
+            },
+            "title": "Tipus de servei cultural"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentatge",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-3-1",
+  "title": "Differential in the use of cultural services and activities, calculated as a percentage, between the average for the population as a whole and the average for the population with a low socio-economic level "
+}

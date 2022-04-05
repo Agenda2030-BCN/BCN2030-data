@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          },
+          {
+            "name": "Type_Public_Transport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metro",
+                "Bus",
+                "Bicing",
+                "Tram",
+                ""
+              ]
+            },
+            "title": "Tipus de transport públic"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Puntuació 0-10",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-2-2",
+  "title": "Evaluation of the management of the various types of public transport by the people who use them: Metro, tram, bus and Bicing"
+}

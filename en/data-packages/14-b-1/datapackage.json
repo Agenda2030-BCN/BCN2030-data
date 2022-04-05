@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Type_of_boat",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Embarcacions Auxiliars",
+                "Embarcacions d'Arrossegament",
+                "Embarcacions d'Arts menors",
+                "Embarcacions d'Encerclament"
+              ]
+            },
+            "title": "Type of boat"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total Number"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-b-1",
+  "title": "Number of fishing boats and artisan-fishing boats (smaller boats and gear) active in Barcelona"
+}

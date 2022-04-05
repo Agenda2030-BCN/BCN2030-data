@@ -1,0 +1,63 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "District",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Barcelona",
+                "Ciutat Vella",
+                "Eixample",
+                "Gap",
+                "Gràcia",
+                "Horta-Guinardó",
+                "Les Corts",
+                "Nou Barris",
+                "Sant Andreu",
+                "Sant Martí",
+                "Sants-Montjuïc",
+                "Sarrià-Sant Gervasi"
+              ]
+            },
+            "title": "District"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-2",
+  "title": "ESO graduation rate broken down by district, the percentage difference between the best and worst performing districts for graduation rate "
+}
