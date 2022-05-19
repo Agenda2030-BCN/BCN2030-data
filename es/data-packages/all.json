@@ -6486,7 +6486,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total number",
+                "Número Total",
                 ""
               ]
             },
