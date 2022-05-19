@@ -1324,7 +1324,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "m3",
+                "hm3",
                 ""
               ]
             }

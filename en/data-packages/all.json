@@ -1442,7 +1442,7 @@
             "constraints": {
               "enum": [
                 "",
-                "m3"
+                "hm3"
               ]
             },
             "title": "Units"
