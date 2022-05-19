@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "District",
@@ -31,18 +31,18 @@
                 "Nou Barris",
                 "Sant Andreu",
                 "Sant Martí",
-                "Gap",
+                "Diferencial",
                 ""
               ]
             },
-            "title": "District"
+            "title": "Distrito"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -51,7 +51,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

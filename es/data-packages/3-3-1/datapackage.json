@@ -13,26 +13,26 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

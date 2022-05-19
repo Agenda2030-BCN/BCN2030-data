@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Geographical_Area",
@@ -21,19 +21,19 @@
             "constraints": {
               "enum": [
                 "Barcelona",
-                "Barcelona(0-15 population)",
-                "Barcelona Metropolitan Area",
+                "Barcelona(población 0-15 años)",
+                "Área Metropolitana Barcelona",
                 ""
               ]
             },
-            "title": "Geographical_Area"
+            "title": "Área Geográfica"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

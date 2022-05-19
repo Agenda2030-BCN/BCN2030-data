@@ -13,26 +13,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Type_assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Social emergencies",
-                "Urgent social situations",
+                "Emergencias sociales",
+                "Urgencias sociales",
                 ""
               ]
             },
-            "title": "Type_assistance"
+            "title": "Tipo atención"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

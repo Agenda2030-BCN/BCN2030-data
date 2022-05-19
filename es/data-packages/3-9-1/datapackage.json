@@ -13,27 +13,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Confidence_Interval_95%",
             "type": "string",
             "constraints": {
               "enum": [
-                "Central position",
-                "High position",
-                "Low position",
+                "Posición central",
+                "Posición alta",
+                "Posición baja",
                 ""
               ]
             },
-            "title": "Confidence_Interval_95%"
+            "title": "Intervalo de confianza 95%"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

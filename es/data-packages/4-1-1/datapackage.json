@@ -13,29 +13,29 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Basic_Skill",
             "type": "string",
             "constraints": {
               "enum": [
-                "Catalan",
-                "Spanish",
-                "English",
-                "Mathematics",
-                "Science and Technology",
+                "Catalán",
+                "Español",
+                "Inglés",
+                "Matemáticas",
+                "Ciencia y Tecnología",
                 ""
               ]
             },
-            "title": "Basic_Skill"
+            "title": "Habilidades básicas"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -44,7 +44,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

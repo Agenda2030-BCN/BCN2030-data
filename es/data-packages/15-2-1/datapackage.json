@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Km2",
-                "m2 per habitant",
+                "m2 por habitante",
                 ""
               ]
             },
@@ -30,7 +30,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

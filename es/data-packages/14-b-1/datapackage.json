@@ -13,28 +13,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Type_of_boat",
             "type": "string",
             "constraints": {
               "enum": [
-                "Embarcacions d'Arts menors",
-                "Embarcacions d'Arrossegament",
-                "Embarcacions d'Encerclament",
-                "Embarcacions Auxiliars",
+                "Embarcaciones de Artes menores",
+                "Embarcaciones de Arrastre",
+                "Embarcaciones Cerqueras",
+                "Embarcaciones Auxiliares",
                 ""
               ]
             },
-            "title": "Type_of_boat"
+            "title": "Tipo de embarcación"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -43,7 +43,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -29,7 +29,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

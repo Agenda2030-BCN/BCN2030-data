@@ -13,20 +13,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "Commerce_Consumption_Tourism",
-                "Housing",
-                "Mobility and air quality",
-                "Urban green spaces",
-                "Waste",
-                "Energy",
-                "AOWDC",
+                "Comercio_Consumo_Turismo",
+                "Vivienda",
+                "Movilidad y calidad del aire",
+                "Espacios verdes urbanos",
+                "Residuos",
+                "Energía",
+                "Agregado de: agua_desarrollo local_sostenibilidad transversal",
                 ""
               ]
             },
@@ -37,8 +37,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million euros",
-                "Percentage",
+                "Millones de euros",
+                "Porcentaje",
                 ""
               ]
             },
@@ -47,7 +47,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

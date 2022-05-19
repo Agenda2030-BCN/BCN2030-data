@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -29,7 +29,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

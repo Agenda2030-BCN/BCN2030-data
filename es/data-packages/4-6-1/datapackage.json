@@ -13,27 +13,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Language",
             "type": "string",
             "constraints": {
               "enum": [
-                "Catalan",
-                "Spanish",
-                "English",
+                "Catalán",
+                "Español",
+                "Inglés",
                 ""
               ]
             },
-            "title": "Language"
+            "title": "Idioma"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

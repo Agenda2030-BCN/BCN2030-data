@@ -15,14 +15,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mean",
+                "Media",
                 ""
               ]
             },
@@ -31,7 +31,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -50,14 +50,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -66,7 +66,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -85,26 +85,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Neighbourhood",
-                "City",
+                "Barrio",
+                "Ciudad",
                 ""
               ]
             },
-            "title": "Area"
+            "title": "Área"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-10 scale",
+                "Escala de 0 a 10",
                 ""
               ]
             },
@@ -113,7 +113,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -132,14 +132,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -148,7 +148,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -167,14 +167,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kg/inhabitant/day",
+                "Kg/habitante/día",
                 ""
               ]
             },
@@ -183,7 +183,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -202,14 +202,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -218,7 +218,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -237,14 +237,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -253,7 +253,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -272,7 +272,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -288,7 +288,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -307,14 +307,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -323,7 +323,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -342,14 +342,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Index (0-3)",
+                "Índice (0-3)",
                 ""
               ]
             },
@@ -358,7 +358,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -377,14 +377,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -393,7 +393,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -412,14 +412,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -428,7 +428,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -447,14 +447,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -463,7 +463,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -482,14 +482,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -498,7 +498,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -517,14 +517,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -533,7 +533,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -552,14 +552,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -568,7 +568,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -587,7 +587,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -603,7 +603,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -622,14 +622,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -638,7 +638,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -657,14 +657,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -673,7 +673,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -692,14 +692,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -708,7 +708,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -727,26 +727,26 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -755,7 +755,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -774,14 +774,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per 1.000",
+                "Tasa por 1.000",
                 ""
               ]
             },
@@ -790,7 +790,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -809,26 +809,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per 100.000",
+                "Tasa por 100.000",
                 ""
               ]
             },
@@ -837,7 +837,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -856,26 +856,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per 100.000",
+                "Tasa por 100.000",
                 ""
               ]
             },
@@ -884,7 +884,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -903,14 +903,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Average days",
+                "Promedio de días",
                 ""
               ]
             },
@@ -919,7 +919,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -938,7 +938,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -954,7 +954,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -973,14 +973,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number per 100.000 inhabitants",
+                "Número total por 100.000 habitantes",
                 ""
               ]
             },
@@ -989,7 +989,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1008,26 +1008,26 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -1036,7 +1036,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1055,14 +1055,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "x1000 tons of CO2",
+                "x1000 toneladas de CO2",
                 ""
               ]
             },
@@ -1071,7 +1071,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1090,14 +1090,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -1106,7 +1106,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1125,7 +1125,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -1141,7 +1141,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1160,7 +1160,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "District",
@@ -1178,18 +1178,18 @@
                 "Nou Barris",
                 "Sant Andreu",
                 "Sant Martí",
-                "Gap",
+                "Diferencial",
                 ""
               ]
             },
-            "title": "District"
+            "title": "Distrito"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -1198,7 +1198,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1217,14 +1217,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -1233,7 +1233,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1252,14 +1252,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Entrepreneurial Activity Rate",
+                "Tasa de actividad empresarial",
                 ""
               ]
             },
@@ -1268,7 +1268,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1287,19 +1287,19 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
@@ -1315,7 +1315,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1334,14 +1334,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per 1.000",
+                "Tasa por 1.000",
                 ""
               ]
             },
@@ -1350,7 +1350,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1369,14 +1369,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Index",
+                "Índice",
                 ""
               ]
             },
@@ -1385,7 +1385,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1404,14 +1404,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -1420,7 +1420,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1439,7 +1439,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -1455,7 +1455,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1468,20 +1468,20 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -1490,7 +1490,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1509,14 +1509,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -1525,7 +1525,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1544,14 +1544,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -1560,7 +1560,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1579,14 +1579,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -1595,7 +1595,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1614,7 +1614,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Air_Pollutants",
@@ -1627,7 +1627,7 @@
                 ""
               ]
             },
-            "title": "Air_Pollutants"
+            "title": "Contaminantes del aire"
           },
           {
             "name": "Units",
@@ -1643,7 +1643,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1662,7 +1662,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -1678,7 +1678,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1697,14 +1697,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Litres",
+                "Litros",
                 ""
               ]
             },
@@ -1713,7 +1713,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1732,7 +1732,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -1748,7 +1748,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1767,26 +1767,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Type_assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Social emergencies",
-                "Urgent social situations",
+                "Emergencias sociales",
+                "Urgencias sociales",
                 ""
               ]
             },
-            "title": "Type_assistance"
+            "title": "Tipo atención"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -1795,7 +1795,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1814,7 +1814,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -1830,7 +1830,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1849,14 +1849,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -1865,7 +1865,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1884,14 +1884,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Million Euros",
+                "Millones de Euros",
                 ""
               ]
             },
@@ -1900,7 +1900,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1919,14 +1919,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -1935,7 +1935,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -1954,26 +1954,26 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Hombre",
+                "Mujer",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -1982,7 +1982,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2001,28 +2001,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Type_of_boat",
             "type": "string",
             "constraints": {
               "enum": [
-                "Embarcacions d'Arts menors",
-                "Embarcacions d'Arrossegament",
-                "Embarcacions d'Encerclament",
-                "Embarcacions Auxiliars",
+                "Embarcaciones de Artes menores",
+                "Embarcaciones de Arrastre",
+                "Embarcaciones Cerqueras",
+                "Embarcaciones Auxiliares",
                 ""
               ]
             },
-            "title": "Type_of_boat"
+            "title": "Tipo de embarcación"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -2031,7 +2031,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2050,7 +2050,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -2066,7 +2066,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2085,7 +2085,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -2101,7 +2101,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2120,14 +2120,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -2136,7 +2136,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2155,14 +2155,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -2171,7 +2171,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2190,14 +2190,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -2206,7 +2206,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2225,7 +2225,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -2241,7 +2241,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2260,14 +2260,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -2276,7 +2276,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2295,14 +2295,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -2311,7 +2311,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2330,14 +2330,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -2346,7 +2346,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2365,14 +2365,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "1000 tn CO2",
+                "1000 toneladas de CO2",
                 ""
               ]
             },
@@ -2381,7 +2381,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2400,14 +2400,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -2416,7 +2416,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2435,14 +2435,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -2451,7 +2451,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2470,7 +2470,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -2486,7 +2486,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2505,14 +2505,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-10 scale",
+                "Escala de 0 a 10",
                 ""
               ]
             },
@@ -2521,7 +2521,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2540,26 +2540,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per 100.000",
+                "Tasa por 100.000",
                 ""
               ]
             },
@@ -2568,7 +2568,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2587,14 +2587,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per mil",
+                "Tasa por mil",
                 ""
               ]
             },
@@ -2603,7 +2603,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2622,15 +2622,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of illegal settlements",
-                "People living in illegal settlements",
+                "Número de asentamientos ilegales",
+                "Personas que viven en asentamientos ilegales",
                 ""
               ]
             },
@@ -2639,7 +2639,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2658,14 +2658,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Index",
+                "Índice",
                 ""
               ]
             },
@@ -2674,7 +2674,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2693,28 +2693,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Type_Housing",
             "type": "string",
             "constraints": {
               "enum": [
-                "Roofless",
-                "Homeless",
-                "Unsafe housing",
-                "Inadequate housing",
+                "Sin techo",
+                "Sin vivienda",
+                "Vivienda insegura",
+                "Vivienda inadecuada",
                 ""
               ]
             },
-            "title": "Type_Housing"
+            "title": "Tipo Vivienda"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -2723,7 +2723,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2742,14 +2742,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -2758,7 +2758,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2777,14 +2777,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -2793,7 +2793,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2812,14 +2812,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -2828,7 +2828,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2847,14 +2847,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Litres",
+                "Litros",
                 ""
               ]
             },
@@ -2863,7 +2863,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2882,7 +2882,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -2898,7 +2898,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2917,14 +2917,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -2933,7 +2933,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2952,14 +2952,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -2968,7 +2968,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -2987,14 +2987,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -3003,7 +3003,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3022,14 +3022,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tonnes",
+                "Toneladas",
                 ""
               ]
             },
@@ -3038,7 +3038,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3057,14 +3057,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -3073,7 +3073,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3092,14 +3092,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3108,7 +3108,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3127,14 +3127,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number in Thousands",
+                "Número total en miles",
                 ""
               ]
             },
@@ -3143,7 +3143,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3162,26 +3162,26 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3190,7 +3190,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3209,15 +3209,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros per night",
-                "Euros per total stay",
+                "Euros por noche",
+                "Euros por estancia total",
                 ""
               ]
             },
@@ -3226,7 +3226,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3245,7 +3245,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -3261,7 +3261,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3280,7 +3280,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -3296,7 +3296,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3315,14 +3315,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per 100.000",
+                "Tasa por 100.000",
                 ""
               ]
             },
@@ -3331,7 +3331,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3350,7 +3350,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -3366,7 +3366,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3385,14 +3385,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3401,7 +3401,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3420,14 +3420,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -3436,7 +3436,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3455,14 +3455,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3471,7 +3471,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3490,14 +3490,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -3506,7 +3506,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3525,7 +3525,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -3533,7 +3533,7 @@
             "constraints": {
               "enum": [
                 "Km2",
-                "m2 per habitant",
+                "m2 por habitante",
                 ""
               ]
             },
@@ -3542,7 +3542,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3561,14 +3561,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3577,7 +3577,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3596,14 +3596,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3612,7 +3612,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3631,14 +3631,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3647,7 +3647,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3666,7 +3666,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -3682,7 +3682,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3701,26 +3701,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3729,7 +3729,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3748,14 +3748,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -3764,7 +3764,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3783,7 +3783,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -3799,7 +3799,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3818,14 +3818,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Milion cubic meter",
+                "Millones de metros cúbicos",
                 ""
               ]
             },
@@ -3834,7 +3834,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3853,14 +3853,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3869,7 +3869,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3882,20 +3882,20 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -3904,7 +3904,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3923,26 +3923,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3951,7 +3951,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -3970,14 +3970,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3986,7 +3986,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4005,7 +4005,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "District",
@@ -4026,15 +4026,15 @@
                 ""
               ]
             },
-            "title": "District"
+            "title": "Distrito"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per 1.000",
-                "Differential higuest lowest rate",
+                "Tasa por 1.000",
+                "Diferencial de la tasa más baja",
                 ""
               ]
             },
@@ -4043,7 +4043,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4062,14 +4062,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4078,7 +4078,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4097,14 +4097,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4113,7 +4113,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4132,14 +4132,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4148,7 +4148,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4167,7 +4167,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -4183,7 +4183,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4202,14 +4202,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4218,7 +4218,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4237,14 +4237,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Difference between positive and negative responses",
+                "Diferencia entre respuestas positivas y negativas",
                 ""
               ]
             },
@@ -4253,7 +4253,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4272,14 +4272,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4288,7 +4288,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4307,14 +4307,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -4323,7 +4323,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4342,7 +4342,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -4358,7 +4358,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4377,14 +4377,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kg per 1.000 euros of GVA",
+                "Kg por 1.000 euros de VAB",
                 ""
               ]
             },
@@ -4393,7 +4393,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4406,31 +4406,31 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Group_Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Over 64 years",
+                "Mas de 64 años",
                 ""
               ]
             },
-            "title": "Group_Age"
+            "title": "Edad del grupo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4439,7 +4439,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4452,20 +4452,20 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -4474,7 +4474,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4493,7 +4493,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -4509,7 +4509,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4528,14 +4528,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -4544,7 +4544,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4563,14 +4563,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Index",
+                "Índice",
                 ""
               ]
             },
@@ -4579,7 +4579,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4592,20 +4592,20 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -4614,7 +4614,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4633,14 +4633,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -4649,7 +4649,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4668,26 +4668,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per 100.000",
+                "Tasa por 100.000",
                 ""
               ]
             },
@@ -4696,7 +4696,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4715,14 +4715,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4731,7 +4731,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4750,14 +4750,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4766,7 +4766,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4785,14 +4785,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4801,7 +4801,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4820,14 +4820,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4836,7 +4836,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4855,7 +4855,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -4871,7 +4871,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4890,14 +4890,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4906,7 +4906,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4925,7 +4925,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -4941,7 +4941,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4960,7 +4960,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -4968,7 +4968,7 @@
             "constraints": {
               "enum": [
                 "Euros",
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -4977,7 +4977,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -4996,14 +4996,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5012,7 +5012,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5031,14 +5031,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5047,7 +5047,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5066,14 +5066,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5082,7 +5082,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5101,14 +5101,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5117,7 +5117,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5136,14 +5136,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -5152,7 +5152,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5171,14 +5171,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -5187,7 +5187,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5206,14 +5206,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -5222,7 +5222,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5241,14 +5241,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5257,7 +5257,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5276,7 +5276,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -5292,7 +5292,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5311,7 +5311,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Geographical_Area",
@@ -5322,15 +5322,15 @@
                 ""
               ]
             },
-            "title": "Geographical_Area"
+            "title": "Área Geográfica"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage annual variation",
-                "Cumulated GDP Growth",
+                "Variación porcentual anual",
+                "Crecimiento acumulado del PIB",
                 ""
               ]
             },
@@ -5339,7 +5339,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5358,14 +5358,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5374,7 +5374,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5393,14 +5393,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -5409,7 +5409,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5428,7 +5428,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Geographical_Area",
@@ -5436,19 +5436,19 @@
             "constraints": {
               "enum": [
                 "Barcelona",
-                "Barcelona(0-15 population)",
-                "Barcelona Metropolitan Area",
+                "Barcelona(población 0-15 años)",
+                "Área Metropolitana Barcelona",
                 ""
               ]
             },
-            "title": "Geographical_Area"
+            "title": "Área Geográfica"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5457,7 +5457,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5476,14 +5476,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -5492,7 +5492,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5511,27 +5511,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Confidence_Interval_95%",
             "type": "string",
             "constraints": {
               "enum": [
-                "Central position",
-                "High position",
-                "Low position",
+                "Posición central",
+                "Posición alta",
+                "Posición baja",
                 ""
               ]
             },
-            "title": "Confidence_Interval_95%"
+            "title": "Intervalo de confianza 95%"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -5540,7 +5540,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5559,14 +5559,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5575,7 +5575,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5594,7 +5594,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Geographical_Area",
@@ -5602,20 +5602,20 @@
             "constraints": {
               "enum": [
                 "Barcelona",
-                "European Union",
-                "Spain",
+                "Unión Europea",
+                "España",
                 ""
               ]
             },
-            "title": "Geographical_Area"
+            "title": "Área Geográfica"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage annual variation",
-                "Cumulated GDP Growth",
+                "Variación porcentual anual",
+                "Crecimiento acumulado del PIB",
                 ""
               ]
             },
@@ -5624,7 +5624,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5643,14 +5643,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number per 100.000 inhabitants",
+                "Número total por 100.000 habitantes",
                 ""
               ]
             },
@@ -5659,7 +5659,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5678,14 +5678,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5694,7 +5694,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5713,7 +5713,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -5729,7 +5729,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5748,14 +5748,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5764,7 +5764,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5777,21 +5777,21 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
-                "Percentage",
+                "Número Total",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5800,7 +5800,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5819,14 +5819,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -5835,7 +5835,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5854,7 +5854,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -5870,7 +5870,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5889,27 +5889,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Language",
             "type": "string",
             "constraints": {
               "enum": [
-                "Catalan",
-                "Spanish",
-                "English",
+                "Catalán",
+                "Español",
+                "Inglés",
                 ""
               ]
             },
-            "title": "Language"
+            "title": "Idioma"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5918,7 +5918,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5937,14 +5937,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5953,7 +5953,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -5972,14 +5972,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -5988,7 +5988,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6007,7 +6007,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -6023,7 +6023,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6042,20 +6042,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "Commerce_Consumption_Tourism",
-                "Housing",
-                "Mobility and air quality",
-                "Urban green spaces",
-                "Waste",
-                "Energy",
-                "AOWDC",
+                "Comercio_Consumo_Turismo",
+                "Vivienda",
+                "Movilidad y calidad del aire",
+                "Espacios verdes urbanos",
+                "Residuos",
+                "Energía",
+                "Agregado de: agua_desarrollo local_sostenibilidad transversal",
                 ""
               ]
             },
@@ -6066,8 +6066,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million euros",
-                "Percentage",
+                "Millones de euros",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6076,7 +6076,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6095,7 +6095,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -6111,7 +6111,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6130,26 +6130,26 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -6158,7 +6158,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6177,27 +6177,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Type_Cultural_Service",
             "type": "string",
             "constraints": {
               "enum": [
-                "Public library",
-                "Popular festival",
-                "Cultural activity",
+                "Biblioteca pública",
+                "Festival popular",
+                "Actividad cultural",
                 ""
               ]
             },
-            "title": "Type_Cultural_Service"
+            "title": "Tipo de servicio cultural"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6206,7 +6206,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6225,14 +6225,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6241,7 +6241,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6260,14 +6260,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -6276,7 +6276,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6295,7 +6295,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -6311,7 +6311,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6330,21 +6330,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic",
-                "Commerce",
+                "Doméstico",
+                "Comercio",
                 "Industrial",
-                "Transport",
-                "Others",
-                "Port and Airport",
-                "Waste Treatment",
-                "Total Emissions",
+                "Transporte",
+                "Otros",
+                "Puerto y Aeropuerto",
+                "Tratamiento de residuos",
+                "Emisiones totales",
                 ""
               ]
             },
@@ -6355,7 +6355,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "x1000 tons of CO2",
+                "x1000 toneladas de CO2",
                 ""
               ]
             },
@@ -6364,7 +6364,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6383,26 +6383,26 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6411,7 +6411,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6430,7 +6430,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Type_Public_Transport",
@@ -6444,14 +6444,14 @@
                 ""
               ]
             },
-            "title": "Type_Public_Transport"
+            "title": "Tipo de transporte público"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rating 0-10",
+                "Puntuación 0-10",
                 ""
               ]
             },
@@ -6460,7 +6460,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6479,7 +6479,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -6495,7 +6495,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6514,14 +6514,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6530,7 +6530,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6549,7 +6549,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -6565,7 +6565,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6584,14 +6584,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -6600,7 +6600,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6619,14 +6619,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -6635,7 +6635,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6654,26 +6654,26 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6682,7 +6682,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6701,14 +6701,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6717,7 +6717,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6736,14 +6736,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6752,7 +6752,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6771,29 +6771,29 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Basic_Skill",
             "type": "string",
             "constraints": {
               "enum": [
-                "Catalan",
-                "Spanish",
-                "English",
-                "Mathematics",
-                "Science and Technology",
+                "Catalán",
+                "Español",
+                "Inglés",
+                "Matemáticas",
+                "Ciencia y Tecnología",
                 ""
               ]
             },
-            "title": "Basic_Skill"
+            "title": "Habilidades básicas"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6802,7 +6802,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6821,14 +6821,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -6837,7 +6837,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6856,14 +6856,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6872,7 +6872,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6891,14 +6891,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6907,7 +6907,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6926,7 +6926,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -6942,7 +6942,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6961,14 +6961,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Porcentaje",
                 ""
               ]
             },
@@ -6977,7 +6977,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -6996,7 +6996,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
@@ -7012,7 +7012,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7031,12 +7031,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7055,12 +7055,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7079,12 +7079,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7103,12 +7103,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7127,12 +7127,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7151,12 +7151,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7175,12 +7175,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7199,12 +7199,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7223,12 +7223,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7247,12 +7247,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7271,12 +7271,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7295,12 +7295,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7319,12 +7319,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7343,12 +7343,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7367,12 +7367,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7391,12 +7391,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7415,12 +7415,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7439,12 +7439,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7463,12 +7463,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7487,12 +7487,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7511,12 +7511,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7535,12 +7535,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7559,12 +7559,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7583,12 +7583,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7607,12 +7607,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7631,12 +7631,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7655,12 +7655,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7679,12 +7679,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7703,12 +7703,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7727,12 +7727,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7751,12 +7751,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7775,12 +7775,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7799,12 +7799,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7823,12 +7823,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7847,12 +7847,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7871,12 +7871,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7895,12 +7895,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7919,12 +7919,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7943,12 +7943,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7967,12 +7967,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -7991,12 +7991,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8015,12 +8015,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8039,12 +8039,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8063,12 +8063,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8087,12 +8087,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8111,12 +8111,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8135,12 +8135,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8159,12 +8159,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8183,12 +8183,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8207,12 +8207,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8231,12 +8231,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8255,12 +8255,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8279,12 +8279,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8303,12 +8303,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8327,12 +8327,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8351,12 +8351,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8375,12 +8375,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8399,12 +8399,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8423,12 +8423,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8447,12 +8447,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8471,12 +8471,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8495,12 +8495,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8519,12 +8519,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8543,12 +8543,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8567,12 +8567,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8591,12 +8591,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8615,12 +8615,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8639,12 +8639,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8663,12 +8663,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8687,12 +8687,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8711,12 +8711,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8735,12 +8735,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8759,12 +8759,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8783,12 +8783,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8807,12 +8807,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8831,12 +8831,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8855,12 +8855,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8879,12 +8879,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8903,12 +8903,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8927,12 +8927,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8951,12 +8951,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8975,12 +8975,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -8999,12 +8999,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },

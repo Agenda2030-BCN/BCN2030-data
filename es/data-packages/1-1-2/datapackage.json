@@ -13,28 +13,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Type_Housing",
             "type": "string",
             "constraints": {
               "enum": [
-                "Roofless",
-                "Homeless",
-                "Unsafe housing",
-                "Inadequate housing",
+                "Sin techo",
+                "Sin vivienda",
+                "Vivienda insegura",
+                "Vivienda inadecuada",
                 ""
               ]
             },
-            "title": "Type_Housing"
+            "title": "Tipo Vivienda"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number",
+                "Número Total",
                 ""
               ]
             },
@@ -43,7 +43,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

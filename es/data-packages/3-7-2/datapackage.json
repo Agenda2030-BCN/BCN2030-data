@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "District",
@@ -34,15 +34,15 @@
                 ""
               ]
             },
-            "title": "District"
+            "title": "Distrito"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate per 1.000",
-                "Differential higuest lowest rate",
+                "Tasa por 1.000",
+                "Diferencial de la tasa más baja",
                 ""
               ]
             },
@@ -51,7 +51,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Entrepreneurial Activity Rate",
+                "Tasa de actividad empresarial",
                 ""
               ]
             },
@@ -29,7 +29,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

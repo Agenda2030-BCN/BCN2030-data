@@ -13,21 +13,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic",
-                "Commerce",
+                "Doméstico",
+                "Comercio",
                 "Industrial",
-                "Transport",
-                "Others",
-                "Port and Airport",
-                "Waste Treatment",
-                "Total Emissions",
+                "Transporte",
+                "Otros",
+                "Puerto y Aeropuerto",
+                "Tratamiento de residuos",
+                "Emisiones totales",
                 ""
               ]
             },
@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "x1000 tons of CO2",
+                "x1000 toneladas de CO2",
                 ""
               ]
             },
@@ -47,7 +47,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of illegal settlements",
-                "People living in illegal settlements",
+                "Número de asentamientos ilegales",
+                "Personas que viven en asentamientos ilegales",
                 ""
               ]
             },
@@ -30,7 +30,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

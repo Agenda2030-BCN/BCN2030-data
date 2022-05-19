@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Geographical_Area",
@@ -24,15 +24,15 @@
                 ""
               ]
             },
-            "title": "Geographical_Area"
+            "title": "Área Geográfica"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage annual variation",
-                "Cumulated GDP Growth",
+                "Variación porcentual anual",
+                "Crecimiento acumulado del PIB",
                 ""
               ]
             },
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }

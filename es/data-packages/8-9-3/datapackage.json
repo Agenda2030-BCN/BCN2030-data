@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros per night",
-                "Euros per total stay",
+                "Euros por noche",
+                "Euros por estancia total",
                 ""
               ]
             },
@@ -30,7 +30,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       }
