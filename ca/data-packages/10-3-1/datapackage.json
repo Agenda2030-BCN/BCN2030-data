@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Biblioteca pública",
-                "Festival popular",
+                "Festes populars",
                 "Activitat cultural",
                 ""
               ]
