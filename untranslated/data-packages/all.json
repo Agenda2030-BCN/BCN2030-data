@@ -7697,6 +7697,28 @@
       "title": "Indicator of the fight against the proliferation of invasive plant and animal species (to be determined)"
     },
     {
+      "path": "12-3-2/data.csv",
+      "name": "12-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Tonnes of food waste at Mercabarna"
+    },
+    {
       "path": "5-6-1/data.csv",
       "name": "5-6-1",
       "profile": "tabular-data-resource",
