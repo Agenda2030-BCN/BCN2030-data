@@ -5299,6 +5299,41 @@
       "title": "Number of violent deaths (murder and manslaughter) known by the city’s police forces"
     },
     {
+      "path": "12-3-2/data.csv",
+      "name": "12-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Toneladas",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Tonnes of food waste at Mercabarna"
+    },
+    {
       "path": "11-2-1/data.csv",
       "name": "11-2-1",
       "profile": "tabular-data-resource",
@@ -8407,30 +8442,6 @@
         ]
       },
       "title": "Indicator of the fight against the proliferation of invasive plant and animal species (to be determined)"
-    },
-    {
-      "path": "12-3-2/data.csv",
-      "name": "12-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Tonnes of food waste at Mercabarna"
     },
     {
       "path": "5-6-1/data.csv",
