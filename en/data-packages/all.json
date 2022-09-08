@@ -2933,6 +2933,41 @@
       "title": "Result of the annual evaluation of institutional transparency produced by the UAB’s Infoparticipa team"
     },
     {
+      "path": "11-4-2/data.csv",
+      "name": "11-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total Number"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Number of digitalised registries (annual increase)/Number of collection items accessible online"
+    },
+    {
       "path": "16-1-2/data.csv",
       "name": "16-1-2",
       "profile": "tabular-data-resource",
@@ -8353,30 +8388,6 @@
         ]
       },
       "title": "Volume of produce commercialised at Mercabarna’s Biomarket"
-    },
-    {
-      "path": "11-4-2/data.csv",
-      "name": "11-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Number of digitalised registries (annual increase)/Number of collection items accessible online"
     },
     {
       "path": "3-d-1/data.csv",
