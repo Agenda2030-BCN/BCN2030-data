@@ -6295,6 +6295,38 @@
       "title": "Network water consumed by municipal services (in m3)"
     },
     {
+      "path": "17-14-1/data.csv",
+      "name": "17-14-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Number of reports concerning the impact of government measures on the 2030 Agenda"
+    },
+    {
       "path": "5-5-4/data.csv",
       "name": "5-5-4",
       "profile": "tabular-data-resource",
@@ -8205,28 +8237,6 @@
         ]
       },
       "title": "global_indicators.17-8-1-title"
-    },
-    {
-      "path": "17-14-1/data.csv",
-      "name": "17-14-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Number of reports concerning the impact of government measures on the 2030 Agenda"
     },
     {
       "path": "7-b-1/data.csv",
