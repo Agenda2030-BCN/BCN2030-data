@@ -16,7 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Percentage"
+                "Total Number"
               ]
             },
             "title": "Units"

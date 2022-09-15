@@ -6313,7 +6313,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Total Number",
                 ""
               ]
             }
