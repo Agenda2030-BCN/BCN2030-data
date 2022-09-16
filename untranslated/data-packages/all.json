@@ -7755,6 +7755,28 @@
       "title": "Indicator of the fight against the trafficking of protected plant and animal species (to be determined)"
     },
     {
+      "path": "11-7-2/data.csv",
+      "name": "11-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "General evaluation of the street cleaning service"
+    },
+    {
       "path": "4-5-2/data.csv",
       "name": "4-5-2",
       "profile": "tabular-data-resource",
