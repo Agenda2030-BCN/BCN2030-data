@@ -6686,6 +6686,41 @@
       "title": "Proportion of education centres that are members of the More Sustainable Schools network (including, nursery, infant, primary, compulsory-secondary (ESO), vocational training, special, higher-secondary and adult schools)"
     },
     {
+      "path": "11-7-2/data.csv",
+      "name": "11-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rating 0-10"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "General evaluation of the street cleaning service"
+    },
+    {
       "path": "14-1-2/data.csv",
       "name": "14-1-2",
       "profile": "tabular-data-resource",
@@ -8471,30 +8506,6 @@
         ]
       },
       "title": "Indicator of the fight against the trafficking of protected plant and animal species (to be determined)"
-    },
-    {
-      "path": "11-7-2/data.csv",
-      "name": "11-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "General evaluation of the street cleaning service"
     },
     {
       "path": "4-5-2/data.csv",
