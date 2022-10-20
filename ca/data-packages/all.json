@@ -4051,8 +4051,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Any"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Homes",
+                "Dones",
+                ""
+              ]
+            },
+            "title": "Sexe"
           },
           {
             "name": "Units",
