@@ -1,1 +1,1 @@
-{"data":{"Year":["2016","2016","2016","2021(dada preliminar abril)","2021(dada preliminar abril)","2021(dada preliminar abril)"],"Sexo":[null,"Hombres","Mujeres",null,"Hombres","Mujeres"],"Units":["Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje"],"Value":[13.4,16.1,10.7,28.1,23.0,32.9]},"edges":[]}
+{"data":{"Year":[2016,2016,2016,2021,2021,2021],"Sexo":[null,"Hombres","Mujeres",null,"Hombres","Mujeres"],"Units":["Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje"],"Value":[13.4,16.1,10.7,22.0,null,null]},"edges":[]}
