@@ -4634,19 +4634,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Confidence_Interval_95%",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Central position",
-                "High position",
-                "Low position"
-              ]
-            },
-            "title": "Confidence Interval 95%"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -4664,7 +4651,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

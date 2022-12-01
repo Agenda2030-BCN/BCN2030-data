@@ -12,19 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Confidence_Interval_95%",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Central position",
-                "High position",
-                "Low position",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "Units",
