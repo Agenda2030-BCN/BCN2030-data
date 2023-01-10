@@ -1305,7 +1305,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Difference between positive and negative responses"
+                "Percentage"
               ]
             },
             "title": "Units"

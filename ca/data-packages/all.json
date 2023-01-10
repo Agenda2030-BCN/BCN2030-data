@@ -1309,7 +1309,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Diferència entre respostes positives i negatives",
+                "Percentatge",
                 ""
               ]
             },
