@@ -1130,14 +1130,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Percentage"
+                "Total Number"
               ]
             },
             "title": "Units"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
