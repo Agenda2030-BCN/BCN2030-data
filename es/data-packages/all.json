@@ -6573,6 +6573,57 @@
       "title": "The average number of days wait between the date of the visit to the Social Services Centre and the date when the visit was scheduled"
     },
     {
+      "path": "11-2-5/data.csv",
+      "name": "11-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Type_Transport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Private motorized",
+                "Taxi",
+                "Public transport",
+                "Bicicle and electric scooter",
+                "Walking",
+                "Otros",
+                ""
+              ]
+            },
+            "title": "Type_Transport"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "11-2-5"
+    },
+    {
       "path": "15-5-3/data.csv",
       "name": "15-5-3",
       "profile": "tabular-data-resource",
