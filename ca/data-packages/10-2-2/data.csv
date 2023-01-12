@@ -1,3 +1,5 @@
-Year,Edat del grup,Units,Value
-2016-2017,,Percentatge,8.8
-2016-2017,Més de 64 anys,Percentatge,10.6
+Year,Edat del grup,Sexe,Units,Value
+2021,,Homes,Percentatge,8.6
+2021,,Dones,Percentatge,10.8
+2021,Més de 64 anys,Homes,Percentatge,5.3
+2021,Més de 64 anys,Dones,Percentatge,9.1

@@ -1,1 +1,1 @@
-{"data":{"Year":["2016-2017","2016-2017"],"Edat del grup":[null,"M\u00e9s de 64 anys"],"Units":["Percentatge","Percentatge"],"Value":[8.8,10.6]},"edges":[]}
+{"data":{"Year":[2021,2021,2021,2021],"Edat del grup":[null,null,"M\u00e9s de 64 anys","M\u00e9s de 64 anys"],"Sexe":["Homes","Dones","Homes","Dones"],"Units":["Percentatge","Percentatge","Percentatge","Percentatge"],"Value":[8.6,10.8,5.3,9.1]},"edges":{"From":["Sexe"],"To":["Edat del grup"]}}
