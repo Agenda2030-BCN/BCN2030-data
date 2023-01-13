@@ -2144,41 +2144,6 @@
       "title": "Total tree-covered surface area in the municipality, adding together urban and woodland green areas"
     },
     {
-      "path": "6-3-7/data.csv",
-      "name": "6-3-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percentage"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Ratio of sewer rehabilitation"
-    },
-    {
       "path": "4-6-1/data.csv",
       "name": "4-6-1",
       "profile": "tabular-data-resource",
@@ -5427,6 +5392,41 @@
       "title": "Surface of water sheets of ornamental fountains"
     },
     {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Increase the operational surface area of sustainable urban drainage systems"
+    },
+    {
       "path": "8-4-3/data.csv",
       "name": "8-4-3",
       "profile": "tabular-data-resource",
@@ -7952,30 +7952,6 @@
       "title": "Change in the extent of water-related ecosystems over time"
     },
     {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Increase the operational surface area of sustainable urban drainage systems"
-    },
-    {
       "path": "11-7-3/data.csv",
       "name": "11-7-3",
       "profile": "tabular-data-resource",
@@ -9390,6 +9366,30 @@
         ]
       },
       "title": "The proportion of tourism establishments and services with the Barcelona Safe Tourism label"
+    },
+    {
+      "path": "6-3-7/data.csv",
+      "name": "6-3-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Ratio of sewer rehabilitation"
     },
     {
       "path": "8-4-1/data.csv",
