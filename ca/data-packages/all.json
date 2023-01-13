@@ -3698,7 +3698,6 @@
             "constraints": {
               "enum": [
                 "Nombre Total",
-                "Percentatge",
                 ""
               ]
             },
