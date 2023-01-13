@@ -3934,7 +3934,7 @@
           }
         ]
       },
-      "title": "6-3-4"
+      "title": "Use of grey water "
     },
     {
       "path": "14-1-1/data.csv",
@@ -8515,30 +8515,6 @@
         ]
       },
       "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
-    },
-    {
-      "path": "6-4-3s/data.csv",
-      "name": "6-4-3s",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Economic losses due to groundwater pollution"
     },
     {
       "path": "15-4-2/data.csv",
