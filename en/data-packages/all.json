@@ -7567,7 +7567,7 @@
           }
         ]
       },
-      "title": "6-4-3"
+      "title": "Economic losses due to groundwater pollution"
     },
     {
       "path": "6-a-1/data.csv",
@@ -9283,30 +9283,6 @@
         ]
       },
       "title": "Total value of inward and outward illicit financial flows (in current United States dollars)"
-    },
-    {
-      "path": "6-3-4s/data.csv",
-      "name": "6-3-4s",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Use of grey water "
     },
     {
       "path": "17-18-1/data.csv",
