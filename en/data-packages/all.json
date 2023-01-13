@@ -5427,41 +5427,6 @@
       "title": "Surface of water sheets of ornamental fountains"
     },
     {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "m2"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Increase the operational surface area of sustainable urban drainage systems"
-    },
-    {
       "path": "8-4-3/data.csv",
       "name": "8-4-3",
       "profile": "tabular-data-resource",
@@ -7985,6 +7950,30 @@
         ]
       },
       "title": "Change in the extent of water-related ecosystems over time"
+    },
+    {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Increase the operational surface area of sustainable urban drainage systems"
     },
     {
       "path": "11-7-3/data.csv",
