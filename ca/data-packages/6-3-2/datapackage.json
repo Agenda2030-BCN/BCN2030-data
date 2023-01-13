@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Any"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hm3",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -26,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "6-3-2",
-  "title": "Network water consumed by municipal services (in m3)"
+  "title": "6-3-2"
 }

@@ -3270,38 +3270,6 @@
       "title": "Biodiversity index for native birds"
     },
     {
-      "path": "6-3-9/data.csv",
-      "name": "6-3-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "hm3",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Estimated volume of filtered water underground"
-    },
-    {
       "path": "6-a-2/data.csv",
       "name": "6-a-2",
       "profile": "tabular-data-resource",
@@ -3460,6 +3428,38 @@
         ]
       },
       "title": "Journeys/year in the door-to-door service for people with disabilities"
+    },
+    {
+      "path": "6-3-2/data.csv",
+      "name": "6-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hm3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "6-3-2"
     },
     {
       "path": "16-2-1/data.csv",
@@ -7905,6 +7905,28 @@
       "title": "global_indicators.12-b-1-title"
     },
     {
+      "path": "6-3-9/data.csv",
+      "name": "6-3-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Estimated volume of filtered water underground"
+    },
+    {
       "path": "9-4-1/data.csv",
       "name": "9-4-1",
       "profile": "tabular-data-resource",
@@ -7925,28 +7947,6 @@
         ]
       },
       "title": "Indicators for the process and results relating to Barcelona’s digital transformation plan"
-    },
-    {
-      "path": "6-3-2/data.csv",
-      "name": "6-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Network water consumed by municipal services (in m3)"
     },
     {
       "path": "3-b-3/data.csv",
