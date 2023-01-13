@@ -3600,7 +3600,7 @@
           }
         ]
       },
-      "title": "Use of grey water "
+      "title": "6-3-4"
     },
     {
       "path": "14-1-1/data.csv",
@@ -6924,7 +6924,7 @@
           }
         ]
       },
-      "title": "Economic losses due to groundwater pollution"
+      "title": "6-4-3"
     },
     {
       "path": "6-a-1/data.csv",
@@ -7795,6 +7795,28 @@
       "title": "global_indicators.7-b-1-title"
     },
     {
+      "path": "6-4-3s/data.csv",
+      "name": "6-4-3s",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Economic losses due to groundwater pollution"
+    },
+    {
       "path": "15-4-2/data.csv",
       "name": "15-4-2",
       "profile": "tabular-data-resource",
@@ -8475,6 +8497,28 @@
         ]
       },
       "title": "global_indicators.16-4-1-title"
+    },
+    {
+      "path": "6-3-4s/data.csv",
+      "name": "6-3-4s",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Use of grey water "
     },
     {
       "path": "17-18-1/data.csv",
