@@ -894,6 +894,38 @@
       "title": "Differential in the use of cultural services and activities, calculated as a percentage, between the average for the population as a whole and the average for the population with a low socio-economic level "
     },
     {
+      "path": "11-3-1/data.csv",
+      "name": "11-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Km",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Km of green corridors in Barcelona’s urban area"
+    },
+    {
       "path": "11-1-2/data.csv",
       "name": "11-1-2",
       "profile": "tabular-data-resource",
@@ -7928,28 +7960,6 @@
         ]
       },
       "title": "global_indicators.17-7-1-title"
-    },
-    {
-      "path": "11-3-1/data.csv",
-      "name": "11-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Km of green corridors in Barcelona’s urban area"
     },
     {
       "path": "14-a-3/data.csv",

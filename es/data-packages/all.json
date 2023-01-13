@@ -976,6 +976,41 @@
       "title": "Differential in the use of cultural services and activities, calculated as a percentage, between the average for the population as a whole and the average for the population with a low socio-economic level "
     },
     {
+      "path": "11-3-1/data.csv",
+      "name": "11-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Km",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Km of green corridors in Barcelona’s urban area"
+    },
+    {
       "path": "11-1-2/data.csv",
       "name": "11-1-2",
       "profile": "tabular-data-resource",
@@ -8662,30 +8697,6 @@
         ]
       },
       "title": "Total de los fondos destinados a los países en desarrollo a fin de promover el desarrollo, la transferencia y la difusión de tecnologías ecológicamente racionales"
-    },
-    {
-      "path": "11-3-1/data.csv",
-      "name": "11-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Km of green corridors in Barcelona’s urban area"
     },
     {
       "path": "14-a-3/data.csv",
