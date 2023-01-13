@@ -12,19 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Any"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Milions de metres cúbics",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
