@@ -4688,38 +4688,6 @@
       "title": "Tonnes of food used by the Barcelona food bank that come from food wastage"
     },
     {
-      "path": "6-4-3s/data.csv",
-      "name": "6-4-3s",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "m3",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "6-4-3s"
-    },
-    {
       "path": "3-a-1/data.csv",
       "name": "3-a-1",
       "profile": "tabular-data-resource",
@@ -6927,6 +6895,38 @@
       "title": "Degree of bus fleet electrification"
     },
     {
+      "path": "6-4-3/data.csv",
+      "name": "6-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "m3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Economic losses due to groundwater pollution"
+    },
+    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -8189,28 +8189,6 @@
         ]
       },
       "title": "global_indicators.3-c-1-title"
-    },
-    {
-      "path": "6-4-3/data.csv",
-      "name": "6-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Economic losses due to groundwater pollution"
     },
     {
       "path": "5-6-2/data.csv",
