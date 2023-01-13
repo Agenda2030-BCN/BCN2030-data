@@ -5723,6 +5723,41 @@
       "title": "Number of serious injuries and deaths in the workplace per 100,000 inhabitants"
     },
     {
+      "path": "6-4-4/data.csv",
+      "name": "6-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "m3",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Use of rainwater on roofs "
+    },
+    {
       "path": "8-6-2/data.csv",
       "name": "8-6-2",
       "profile": "tabular-data-resource",
@@ -9342,30 +9377,6 @@
         ]
       },
       "title": "Nombre de països la legislació nacional dels quals sobre estadístiques compleix els Principis Fonamentals de les Estadístiques Oficials"
-    },
-    {
-      "path": "6-4-4/data.csv",
-      "name": "6-4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Use of rainwater on roofs "
     },
     {
       "path": "8-9-1/data.csv",
