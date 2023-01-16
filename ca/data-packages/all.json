@@ -73,41 +73,6 @@
       "title": "Number of organisations with environmental certificates"
     },
     {
-      "path": "6-3-3/data.csv",
-      "name": "6-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Any"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "hm3",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Use of regenerated water in the Marina neighbourhood (in m3)"
-    },
-    {
       "path": "3-9-1/data.csv",
       "name": "3-9-1",
       "profile": "tabular-data-resource",
@@ -5088,6 +5053,41 @@
       "title": "Number of tourist accommodation places with respect to the residential population"
     },
     {
+      "path": "6-4-5/data.csv",
+      "name": "6-4-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hm3",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "6-4-5"
+    },
+    {
       "path": "12-3-1/data.csv",
       "name": "12-3-1",
       "profile": "tabular-data-resource",
@@ -7699,6 +7699,30 @@
         ]
       },
       "title": "Achievement indicators for the various transformation phases leading to the new model for Barcelona Zoo"
+    },
+    {
+      "path": "6-3-3/data.csv",
+      "name": "6-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Any"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Use of regenerated water in the Marina neighbourhood (in m3)"
     },
     {
       "path": "14-a-1/data.csv",
