@@ -1479,41 +1479,6 @@
       "title": "Ecomobility (proportion of journey stages made using public and/or non-motorised transport)"
     },
     {
-      "path": "6-3-5/data.csv",
-      "name": "6-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "m3"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Use of rainwater on roofs "
-    },
-    {
       "path": "5-3-3/data.csv",
       "name": "5-3-3",
       "profile": "tabular-data-resource",
@@ -8923,6 +8888,30 @@
         ]
       },
       "title": "Degree of achievement of the strategic projects for the economic transformation of Barcelona"
+    },
+    {
+      "path": "6-3-5/data.csv",
+      "name": "6-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Use of rainwater on roofs "
     },
     {
       "path": "3-c-1/data.csv",
