@@ -1,8 +1,22 @@
-Year,Units,Value
-2015,Nombre Total,27
-2016,Nombre Total,28
-2017,Nombre Total,12
-2018,Nombre Total,21
-2019,Nombre Total,22
-2020,Nombre Total,14
-2021,Nombre Total,12
+Year,Sexe,Units,Value
+2015,,Nombre Total,27
+2015,Homes,Nombre Total,25
+2015,Dones,Nombre Total,2
+2016,,Nombre Total,28
+2016,Homes,Nombre Total,16
+2016,Dones,Nombre Total,12
+2017,,Nombre Total,12
+2017,Homes,Nombre Total,7
+2017,Dones,Nombre Total,5
+2018,,Nombre Total,21
+2018,Homes,Nombre Total,16
+2018,Dones,Nombre Total,5
+2019,,Nombre Total,22
+2019,Homes,Nombre Total,19
+2019,Dones,Nombre Total,3
+2020,,Nombre Total,14
+2020,Homes,Nombre Total,12
+2020,Dones,Nombre Total,2
+2021,,Nombre Total,12
+2021,Homes,Nombre Total,11
+2021,Dones,Nombre Total,1
