@@ -1,8 +1,22 @@
-Year,Units,Value
-2015,Número Total,199
-2016,Número Total,192
-2017,Número Total,241
-2018,Número Total,236
-2019,Número Total,202
-2020,Número Total,141
-2021,Número Total,166
+Year,Sexo,Units,Value
+2015,,Número Total,199
+2015,Hombres,Número Total,135
+2015,Mujeres,Número Total,64
+2016,,Número Total,192
+2016,Hombres,Número Total,131
+2016,Mujeres,Número Total,61
+2017,,Número Total,230
+2017,Hombres,Número Total,150
+2017,Mujeres,Número Total,80
+2018,,Número Total,236
+2018,Hombres,Número Total,155
+2018,Mujeres,Número Total,81
+2019,,Número Total,202
+2019,Hombres,Número Total,143
+2019,Mujeres,Número Total,59
+2020,,Número Total,141
+2020,Hombres,Número Total,98
+2020,Mujeres,Número Total,43
+2021,,Número Total,166
+2021,Hombres,Número Total,111
+2021,Mujeres,Número Total,55
