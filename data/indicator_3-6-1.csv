@@ -1,8 +1,22 @@
-Year,Units,Value
-2015,Total Number,27
-2016,Total Number,28
-2017,Total Number,12
-2018,Total Number,21
-2019,Total Number,22
-2020,Total Number,14
-2021,Total Number,12
+Year,Gender,Units,Value
+2015,,Total Number,27
+2015,Men,Total Number,25
+2015,Women,Total Number,2
+2016,,Total Number,28
+2016,Men,Total Number,16
+2016,Women,Total Number,12
+2017,,Total Number,12
+2017,Men,Total Number,7
+2017,Women,Total Number,5
+2018,,Total Number,21
+2018,Men,Total Number,16
+2018,Women,Total Number,5
+2019,,Total Number,22
+2019,Men,Total Number,19
+2019,Women,Total Number,3
+2020,,Total Number,14
+2020,Men,Total Number,12
+2020,Women,Total Number,2
+2021,,Total Number,12
+2021,Men,Total Number,11
+2021,Women,Total Number,1
