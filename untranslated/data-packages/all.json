@@ -3566,6 +3566,17 @@
             "type": "integer"
           },
           {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
