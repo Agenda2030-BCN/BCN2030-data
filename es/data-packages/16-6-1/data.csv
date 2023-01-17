@@ -1,9 +1,25 @@
-Year,Units,Value
-2015,Escala de 0 a 10,6.31
-2016,Escala de 0 a 10,6.27
-2017,Escala de 0 a 10,6.35
-2018,Escala de 0 a 10,6.45
-2019,Escala de 0 a 10,6.21
-2020,Escala de 0 a 10,5.7
-2021,Escala de 0 a 10,5.9
-2022,Escala de 0 a 10,5.7
+Year,Sexo,Units,Value
+2015,,Escala de 0 a 10,6.31
+2016,,Escala de 0 a 10,6.27
+2017,,Escala de 0 a 10,6.35
+2018,,Escala de 0 a 10,6.45
+2019,,Escala de 0 a 10,6.21
+2020,,Escala de 0 a 10,5.7
+2021,,Escala de 0 a 10,5.9
+2022,,Escala de 0 a 10,5.7
+2015,Hombres,Escala de 0 a 10,6.4
+2016,Hombres,Escala de 0 a 10,6.3
+2017,Hombres,Escala de 0 a 10,6.4
+2018,Hombres,Escala de 0 a 10,6.5
+2019,Hombres,Escala de 0 a 10,6.2
+2020,Hombres,Escala de 0 a 10,5.7
+2021,Hombres,Escala de 0 a 10,5.9
+2022,Hombres,Escala de 0 a 10,5.7
+2015,Mujeres,Escala de 0 a 10,6.2
+2016,Mujeres,Escala de 0 a 10,6.2
+2017,Mujeres,Escala de 0 a 10,6.3
+2018,Mujeres,Escala de 0 a 10,6.5
+2019,Mujeres,Escala de 0 a 10,6.2
+2020,Mujeres,Escala de 0 a 10,5.7
+2021,Mujeres,Escala de 0 a 10,5.9
+2022,Mujeres,Escala de 0 a 10,5.7
