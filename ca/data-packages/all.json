@@ -487,6 +487,18 @@
             "title": "Any"
           },
           {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Homes",
+                "Dones",
+                ""
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
