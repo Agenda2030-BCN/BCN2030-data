@@ -1,4 +1,10 @@
-Year,Units,Value
-2014,Porcentaje,43.9
-2018,Porcentaje,56.4
-2021,Porcentaje,51.6
+Year,Sexo,Units,Value
+2014,,Porcentaje,43.9
+2018,,Porcentaje,56.4
+2021,,Porcentaje,51.6
+2014,Hombres,Porcentaje,43.9
+2018,Hombres,Porcentaje,56.4
+2021,Hombres,Porcentaje,51.6
+2014,Mujeres,Porcentaje,43.9
+2018,Mujeres,Porcentaje,56.4
+2021,Mujeres,Porcentaje,51.6
