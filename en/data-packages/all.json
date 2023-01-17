@@ -6941,6 +6941,18 @@
             "title": "Area"
           },
           {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Men",
+                "Women"
+              ]
+            },
+            "title": "Gender"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
