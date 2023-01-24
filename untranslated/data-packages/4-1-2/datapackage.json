@@ -15,6 +15,17 @@
             "type": "string"
           },
           {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
             "name": "District",
             "type": "string",
             "constraints": {

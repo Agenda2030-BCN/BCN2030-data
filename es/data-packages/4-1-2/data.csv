@@ -1,61 +1,97 @@
-Year,Distrito,Units,Value
-2015-2016,Barcelona,Porcentaje,89.5
-2015-2016,Ciutat Vella,Porcentaje,74.1
-2015-2016,Eixample,Porcentaje,92.9
-2015-2016,Sants-Montjuïc,Porcentaje,84.4
-2015-2016,Les Corts,Porcentaje,92.5
-2015-2016,Sarrià-Sant Gervasi,Porcentaje,94.1
-2015-2016,Gràcia,Porcentaje,94.2
-2015-2016,Horta-Guinardó,Porcentaje,90.2
-2015-2016,Nou Barris,Porcentaje,82.7
-2015-2016,Sant Andreu,Porcentaje,88.8
-2015-2016,Sant Martí,Porcentaje,88.2
-2015-2016,Diferencial,Porcentaje,20.1
-2016-2017,Barcelona,Porcentaje,89.5
-2016-2017,Ciutat Vella,Porcentaje,79.2
-2016-2017,Eixample,Porcentaje,89.5
-2016-2017,Sants-Montjuïc,Porcentaje,84.8
-2016-2017,Les Corts,Porcentaje,90.8
-2016-2017,Sarrià-Sant Gervasi,Porcentaje,94.2
-2016-2017,Gràcia,Porcentaje,95.5
-2016-2017,Horta-Guinardó,Porcentaje,89.6
-2016-2017,Nou Barris,Porcentaje,83.7
-2016-2017,Sant Andreu,Porcentaje,90.6
-2016-2017,Sant Martí,Porcentaje,89.0
-2016-2017,Diferencial,Porcentaje,16.3
-2017-2018,Barcelona,Porcentaje,90.7
-2017-2018,Ciutat Vella,Porcentaje,78.0
-2017-2018,Eixample,Porcentaje,92.6
-2017-2018,Sants-Montjuïc,Porcentaje,86.2
-2017-2018,Les Corts,Porcentaje,96.3
-2017-2018,Sarrià-Sant Gervasi,Porcentaje,95.8
-2017-2018,Gràcia,Porcentaje,96.0
-2017-2018,Horta-Guinardó,Porcentaje,88.3
-2017-2018,Nou Barris,Porcentaje,82.4
-2017-2018,Sant Andreu,Porcentaje,90.8
-2017-2018,Sant Martí,Porcentaje,90.3
-2017-2018,Diferencial,Porcentaje,18.3
-2018-2019,Barcelona,Porcentaje,90.0
-2018-2019,Ciutat Vella,Porcentaje,85.0
-2018-2019,Eixample,Porcentaje,91.8
-2018-2019,Sants-Montjuïc,Porcentaje,85.6
-2018-2019,Les Corts,Porcentaje,98.2
-2018-2019,Sarrià-Sant Gervasi,Porcentaje,97.4
-2018-2019,Gràcia,Porcentaje,93.8
-2018-2019,Horta-Guinardó,Porcentaje,87.3
-2018-2019,Nou Barris,Porcentaje,75.6
-2018-2019,Sant Andreu,Porcentaje,91.4
-2018-2019,Sant Martí,Porcentaje,86.3
-2018-2019,Diferencial,Porcentaje,22.6
-2019-2020,Barcelona,Porcentaje,92.1
-2019-2020,Ciutat Vella,Porcentaje,85.7
-2019-2020,Eixample,Porcentaje,93.5
-2019-2020,Sants-Montjuïc,Porcentaje,86.9
-2019-2020,Les Corts,Porcentaje,100.0
-2019-2020,Sarrià-Sant Gervasi,Porcentaje,97.4
-2019-2020,Gràcia,Porcentaje,96.6
-2019-2020,Horta-Guinardó,Porcentaje,91.1
-2019-2020,Nou Barris,Porcentaje,83.1
-2019-2020,Sant Andreu,Porcentaje,92.6
-2019-2020,Sant Martí,Porcentaje,88.2
-2019-2020,Diferencial,Porcentaje,17.4
+Year,Sexo,Distrito,Units,Value
+2015-2016,,Barcelona,Porcentaje,89.5
+2015-2016,,Ciutat Vella,Porcentaje,74.1
+2015-2016,,Eixample,Porcentaje,92.9
+2015-2016,,Sants-Montjuïc,Porcentaje,84.4
+2015-2016,,Les Corts,Porcentaje,92.5
+2015-2016,,Sarrià-Sant Gervasi,Porcentaje,94.1
+2015-2016,,Gràcia,Porcentaje,94.2
+2015-2016,,Horta-Guinardó,Porcentaje,90.2
+2015-2016,,Nou Barris,Porcentaje,82.7
+2015-2016,,Sant Andreu,Porcentaje,88.8
+2015-2016,,Sant Martí,Porcentaje,88.2
+2015-2016,,Diferencial,Porcentaje,20.1
+2016-2017,,Barcelona,Porcentaje,89.5
+2016-2017,,Ciutat Vella,Porcentaje,79.2
+2016-2017,,Eixample,Porcentaje,89.5
+2016-2017,,Sants-Montjuïc,Porcentaje,84.8
+2016-2017,,Les Corts,Porcentaje,90.8
+2016-2017,,Sarrià-Sant Gervasi,Porcentaje,94.2
+2016-2017,,Gràcia,Porcentaje,95.5
+2016-2017,,Horta-Guinardó,Porcentaje,89.6
+2016-2017,,Nou Barris,Porcentaje,83.7
+2016-2017,,Sant Andreu,Porcentaje,90.6
+2016-2017,,Sant Martí,Porcentaje,89.0
+2016-2017,,Diferencial,Porcentaje,16.3
+2017-2018,,Barcelona,Porcentaje,90.7
+2017-2018,,Ciutat Vella,Porcentaje,78.0
+2017-2018,,Eixample,Porcentaje,92.6
+2017-2018,,Sants-Montjuïc,Porcentaje,86.2
+2017-2018,,Les Corts,Porcentaje,96.3
+2017-2018,,Sarrià-Sant Gervasi,Porcentaje,95.8
+2017-2018,,Gràcia,Porcentaje,96.0
+2017-2018,,Horta-Guinardó,Porcentaje,88.3
+2017-2018,,Nou Barris,Porcentaje,82.4
+2017-2018,,Sant Andreu,Porcentaje,90.8
+2017-2018,,Sant Martí,Porcentaje,90.3
+2017-2018,,Diferencial,Porcentaje,18.3
+2018-2019,,Barcelona,Porcentaje,90.0
+2018-2019,,Ciutat Vella,Porcentaje,85.0
+2018-2019,,Eixample,Porcentaje,91.8
+2018-2019,,Sants-Montjuïc,Porcentaje,85.6
+2018-2019,,Les Corts,Porcentaje,98.2
+2018-2019,,Sarrià-Sant Gervasi,Porcentaje,97.4
+2018-2019,,Gràcia,Porcentaje,93.8
+2018-2019,,Horta-Guinardó,Porcentaje,87.3
+2018-2019,,Nou Barris,Porcentaje,75.6
+2018-2019,,Sant Andreu,Porcentaje,91.4
+2018-2019,,Sant Martí,Porcentaje,86.3
+2018-2019,,Diferencial,Porcentaje,22.6
+2019-2020,,Barcelona,Porcentaje,92.1
+2019-2020,,Ciutat Vella,Porcentaje,85.7
+2019-2020,,Eixample,Porcentaje,93.5
+2019-2020,,Sants-Montjuïc,Porcentaje,86.9
+2019-2020,,Les Corts,Porcentaje,100.0
+2019-2020,,Sarrià-Sant Gervasi,Porcentaje,97.4
+2019-2020,,Gràcia,Porcentaje,96.6
+2019-2020,,Horta-Guinardó,Porcentaje,91.1
+2019-2020,,Nou Barris,Porcentaje,83.1
+2019-2020,,Sant Andreu,Porcentaje,92.6
+2019-2020,,Sant Martí,Porcentaje,88.2
+2019-2020,,Diferencial,Porcentaje,17.4
+2020-2021,,Barcelona,Porcentaje,89.9
+2020-2021,,Ciutat Vella,Porcentaje,79.5
+2020-2021,,Eixample,Porcentaje,93.4
+2020-2021,,Sants-Montjuïc,Porcentaje,86.1
+2020-2021,,Les Corts,Porcentaje,97.6
+2020-2021,,Sarrià-Sant Gervasi,Porcentaje,95.6
+2020-2021,,Gràcia,Porcentaje,95.7
+2020-2021,,Horta-Guinardó,Porcentaje,86.9
+2020-2021,,Nou Barris,Porcentaje,83.2
+2020-2021,,Sant Andreu,Porcentaje,91.2
+2020-2021,,Sant Martí,Porcentaje,83.6
+2020-2021,,Diferencial,Porcentaje,18.1
+2020-2021,Hombres,Barcelona,Porcentaje,88.3
+2020-2021,Hombres,Ciutat Vella,Porcentaje,73.1
+2020-2021,Hombres,Eixample,Porcentaje,91.0
+2020-2021,Hombres,Sants-Montjuïc,Porcentaje,83.3
+2020-2021,Hombres,Les Corts,Porcentaje,97.9
+2020-2021,Hombres,Sarrià-Sant Gervasi,Porcentaje,94.4
+2020-2021,Hombres,Gràcia,Porcentaje,94.0
+2020-2021,Hombres,Horta-Guinardó,Porcentaje,86.1
+2020-2021,Hombres,Nou Barris,Porcentaje,80.1
+2020-2021,Hombres,Sant Andreu,Porcentaje,90.9
+2020-2021,Hombres,Sant Martí,Porcentaje,83.0
+2020-2021,Hombres,Diferencial,Porcentaje,24.8
+2020-2021,Mujeres,Barcelona,Porcentaje,91.5
+2020-2021,Mujeres,Ciutat Vella,Porcentaje,86.9
+2020-2021,Mujeres,Eixample,Porcentaje,95.8
+2020-2021,Mujeres,Sants-Montjuïc,Porcentaje,88.7
+2020-2021,Mujeres,Les Corts,Porcentaje,97.4
+2020-2021,Mujeres,Sarrià-Sant Gervasi,Porcentaje,96.7
+2020-2021,Mujeres,Gràcia,Porcentaje,97.4
+2020-2021,Mujeres,Horta-Guinardó,Porcentaje,87.7
+2020-2021,Mujeres,Nou Barris,Porcentaje,86.5
+2020-2021,Mujeres,Sant Andreu,Porcentaje,91.4
+2020-2021,Mujeres,Sant Martí,Porcentaje,84.1
+2020-2021,Mujeres,Diferencial,Porcentaje,13.3
