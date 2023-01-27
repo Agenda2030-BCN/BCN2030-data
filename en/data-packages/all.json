@@ -7954,30 +7954,6 @@
       "title": "Barcelona Sea of Science project"
     },
     {
-      "path": "8-9-1/data.csv",
-      "name": "8-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "The proportion of tourism establishments and services with the Barcelona Safe Tourism label"
-    },
-    {
       "path": "15-4-1/data.csv",
       "name": "15-4-1",
       "profile": "tabular-data-resource",
