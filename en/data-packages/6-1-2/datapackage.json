@@ -11,13 +11,40 @@
       "schema": {
         "fields": [
           {
+            "name": "Language",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Alert",
+                "Emergency",
+                "Excepcionality",
+                "Normality",
+                "Pre-alert",
+                "Pre-alert2"
+              ]
+            },
+            "title": "Language"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number of days"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

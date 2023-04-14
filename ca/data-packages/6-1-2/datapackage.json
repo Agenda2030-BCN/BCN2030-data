@@ -12,12 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Any"
           },
           {
+            "name": "Language",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normality",
+                "Pre-alert",
+                "Pre-alert2",
+                "Alert",
+                "Excepcionality",
+                "Emergency",
+                ""
+              ]
+            },
+            "title": "Idioma"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of days",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Valor"
           }
         ]

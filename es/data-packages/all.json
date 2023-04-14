@@ -6708,6 +6708,57 @@
       "title": "Number of multifunctional fountains in schools, open school yards"
     },
     {
+      "path": "6-1-2/data.csv",
+      "name": "6-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Language",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normality",
+                "Pre-alert",
+                "Pre-alert2",
+                "Alert",
+                "Excepcionality",
+                "Emergency",
+                ""
+              ]
+            },
+            "title": "Idioma"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of days",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Number of days in each hydrological drought situation scenario"
+    },
+    {
       "path": "17-19-2/data.csv",
       "name": "17-19-2",
       "profile": "tabular-data-resource",
@@ -9368,30 +9419,6 @@
         ]
       },
       "title": "Approval of the Metropolitan Emergency Plan for Pandemic Situations"
-    },
-    {
-      "path": "6-1-2/data.csv",
-      "name": "6-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Number of days in each hydrological drought situation scenario"
     },
     {
       "path": "2-4-2/data.csv",
