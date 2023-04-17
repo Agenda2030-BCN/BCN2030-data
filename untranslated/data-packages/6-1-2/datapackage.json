@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Language",
+            "name": "Scenario",
             "type": "string",
             "constraints": {
               "enum": [

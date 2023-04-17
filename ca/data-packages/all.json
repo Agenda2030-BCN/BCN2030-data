@@ -6723,7 +6723,7 @@
             "title": "Any"
           },
           {
-            "name": "Language",
+            "name": "Scenario",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6736,7 +6736,7 @@
                 ""
               ]
             },
-            "title": "Idioma"
+            "title": "Scenario"
           },
           {
             "name": "Units",

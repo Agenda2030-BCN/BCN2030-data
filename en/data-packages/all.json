@@ -6718,7 +6718,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Language",
+            "name": "Scenario",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6731,7 +6731,7 @@
                 "Pre-alert2"
               ]
             },
-            "title": "Language"
+            "title": "Scenario"
           },
           {
             "name": "Units",

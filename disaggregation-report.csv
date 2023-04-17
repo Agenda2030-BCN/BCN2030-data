@@ -6,7 +6,8 @@ District,2,14
 Gender,32,4
 Geographical_Area,3,5
 Group_Age,1,1
-Language,2,9
+Language,1,3
+Scenario,1,6
 Sector,2,15
 Type_assistance,1,2
 Type_Cultural_Service,1,3
