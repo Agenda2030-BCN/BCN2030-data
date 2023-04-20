@@ -6764,7 +6764,7 @@
               "enum": [
                 "Normalitat",
                 "Pre-alerta",
-                "Pre-alerta2",
+                "Pre-alert2",
                 "Alerta",
                 "Excepcionalitat",
                 "Emergència",
