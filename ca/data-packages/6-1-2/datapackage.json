@@ -20,16 +20,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Normality",
-                "Pre-alert",
+                "Normalitat",
+                "Pre-alerta",
                 "Pre-alert2",
-                "Alert",
-                "Excepcionality",
-                "Emergency",
+                "Alerta",
+                "Excepcionalitat",
+                "Emergència",
                 ""
               ]
             },
-            "title": "Scenario"
+            "title": "Escenari"
           },
           {
             "name": "Units",
