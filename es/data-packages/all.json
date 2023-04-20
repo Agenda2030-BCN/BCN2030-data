@@ -6762,16 +6762,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Normality",
-                "Pre-alert",
-                "Pre-alert2",
-                "Alert",
-                "Excepcionality",
-                "Emergency",
+                "Normalidad",
+                "Pre-alerta",
+                "Pre-alerta2",
+                "Alerta",
+                "Excepcionalidad",
+                "Emergencia",
                 ""
               ]
             },
-            "title": "Scenario"
+            "title": "Escenario"
           },
           {
             "name": "Units",
