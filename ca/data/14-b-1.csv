@@ -6,6 +6,7 @@ Year,Tipus d'embarcació,Units,Value
 2019,Embarcacions d'Arts menors,Nombre Total,2
 2020,Embarcacions d'Arts menors,Nombre Total,0
 2021,Embarcacions d'Arts menors,Nombre Total,2
+2022,Embarcacions d'Arts menors,Nombre Total,2
 2015,Embarcacions d'Arrossegament,Nombre Total,12
 2016,Embarcacions d'Arrossegament,Nombre Total,12
 2017,Embarcacions d'Arrossegament,Nombre Total,10
@@ -13,6 +14,7 @@ Year,Tipus d'embarcació,Units,Value
 2019,Embarcacions d'Arrossegament,Nombre Total,10
 2020,Embarcacions d'Arrossegament,Nombre Total,10
 2021,Embarcacions d'Arrossegament,Nombre Total,9
+2022,Embarcacions d'Arrossegament,Nombre Total,9
 2015,Embarcacions d'Encerclament,Nombre Total,22
 2016,Embarcacions d'Encerclament,Nombre Total,22
 2017,Embarcacions d'Encerclament,Nombre Total,21
@@ -20,6 +22,7 @@ Year,Tipus d'embarcació,Units,Value
 2019,Embarcacions d'Encerclament,Nombre Total,15
 2020,Embarcacions d'Encerclament,Nombre Total,14
 2021,Embarcacions d'Encerclament,Nombre Total,14
+2022,Embarcacions d'Encerclament,Nombre Total,13
 2015,Embarcacions Auxiliars,Nombre Total,0
 2016,Embarcacions Auxiliars,Nombre Total,1
 2017,Embarcacions Auxiliars,Nombre Total,1
@@ -27,6 +30,7 @@ Year,Tipus d'embarcació,Units,Value
 2019,Embarcacions Auxiliars,Nombre Total,1
 2020,Embarcacions Auxiliars,Nombre Total,1
 2021,Embarcacions Auxiliars,Nombre Total,1
+2022,Embarcacions Auxiliars,Nombre Total,1
 2015,,Nombre Total,36
 2016,,Nombre Total,37
 2017,,Nombre Total,34
@@ -34,3 +38,4 @@ Year,Tipus d'embarcació,Units,Value
 2019,,Nombre Total,28
 2020,,Nombre Total,25
 2021,,Nombre Total,26
+2022,,Nombre Total,25
