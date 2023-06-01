@@ -3,6 +3,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1,Geographical_Area,1
 #1-5-1,Type_assistance,1
 #10-2-2,"Gender, Group_Age",2
+#10-2-3,Gender,1
 #10-3-1,Type_Cultural_Service,1
 #10-3-4,Gender,1
 #11-2-2,Type_Public_Transport,1
