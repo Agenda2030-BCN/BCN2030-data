@@ -1,4 +1,5 @@
-Year,Units,Value
-2020,Percentage,4.1
-
+Year,Gender,Units,Value
+2020,,Percentage,4.1
+2020,Men,Percentage,3.0
+2020,Women,Percentage,5.0
 
