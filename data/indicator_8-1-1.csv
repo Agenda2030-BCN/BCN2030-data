@@ -7,6 +7,7 @@ Year,Geographical_Area,Units,Value
 2019,Barcelona,Percentage annual variation,1.87
 2020,Barcelona,Percentage annual variation,-12.76
 2021,Barcelona,Percentage annual variation,7.27
+2022,Barcelona,Percentage annual variation,6.64
 2014,European Union,Percentage annual variation,
 2015,European Union,Percentage annual variation,2.13
 2016,European Union,Percentage annual variation,1.83
@@ -31,3 +32,4 @@ Year,Geographical_Area,Units,Value
 2019,Barcelona,Cumulated GDP Growth,114.26
 2020,Barcelona,Cumulated GDP Growth,99.68
 2021,Barcelona,Cumulated GDP Growth,106.93
+2022,Barcelona,Cumulated GDP Growth,114.02
