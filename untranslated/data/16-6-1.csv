@@ -1,12 +1,13 @@
 Year,Gender,Units,Value
-2015,,0-10 scale,6.31
-2016,,0-10 scale,6.27
-2017,,0-10 scale,6.35
-2018,,0-10 scale,6.45
-2019,,0-10 scale,6.21
+2015,,0-10 scale,6.3
+2016,,0-10 scale,6.3
+2017,,0-10 scale,6.4
+2018,,0-10 scale,6.5
+2019,,0-10 scale,6.2
 2020,,0-10 scale,5.7
 2021,,0-10 scale,5.9
 2022,,0-10 scale,5.7
+2023,,0-10 scale,5.7
 2015,Men,0-10 scale,6.4
 2016,Men,0-10 scale,6.3
 2017,Men,0-10 scale,6.4
@@ -15,6 +16,7 @@ Year,Gender,Units,Value
 2020,Men,0-10 scale,5.7
 2021,Men,0-10 scale,5.9
 2022,Men,0-10 scale,5.7
+2023,Men,0-10 scale,5.7
 2015,Women,0-10 scale,6.2
 2016,Women,0-10 scale,6.2
 2017,Women,0-10 scale,6.3
@@ -23,3 +25,4 @@ Year,Gender,Units,Value
 2020,Women,0-10 scale,5.7
 2021,Women,0-10 scale,5.9
 2022,Women,0-10 scale,5.7
+2023,Women,0-10 scale,5.7
