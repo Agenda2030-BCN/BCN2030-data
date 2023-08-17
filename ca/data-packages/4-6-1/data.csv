@@ -7,6 +7,7 @@ Year,Idioma,Sexe,Units,Value
 2020,Català,,Percentatge,77.0
 2021,Català,,Percentatge,75.3
 2022,Català,,Percentatge,74.4
+2023,Català,,Percentatge,74.7
 2015,Català,Homes,Percentatge,77.1
 2016,Català,Homes,Percentatge,75.4
 2017,Català,Homes,Percentatge,76.5
@@ -15,6 +16,7 @@ Year,Idioma,Sexe,Units,Value
 2020,Català,Homes,Percentatge,78.6
 2021,Català,Homes,Percentatge,76.7
 2022,Català,Homes,Percentatge,74.2
+2023,Català,Homes,Percentatge,74.9
 2015,Català,Dones,Percentatge,76.3
 2016,Català,Dones,Percentatge,76.2
 2017,Català,Dones,Percentatge,73.8
@@ -23,6 +25,7 @@ Year,Idioma,Sexe,Units,Value
 2020,Català,Dones,Percentatge,75.3
 2021,Català,Dones,Percentatge,74.1
 2022,Català,Dones,Percentatge,74.5
+2023,Català,Dones,Percentatge,74.6
 2015,Castellà,,Percentatge,100.0
 2016,Castellà,,Percentatge,100.0
 2017,Castellà,,Percentatge,100.0
@@ -31,6 +34,7 @@ Year,Idioma,Sexe,Units,Value
 2020,Castellà,,Percentatge,100.0
 2021,Castellà,,Percentatge,99.9
 2022,Castellà,,Percentatge,100.0
+2023,Castellà,,Percentatge,100.0
 2015,Castellà,Homes,Percentatge,100.0
 2016,Castellà,Homes,Percentatge,100.0
 2017,Castellà,Homes,Percentatge,100.0
@@ -39,6 +43,7 @@ Year,Idioma,Sexe,Units,Value
 2020,Castellà,Homes,Percentatge,100.0
 2021,Castellà,Homes,Percentatge,99.9
 2022,Castellà,Homes,Percentatge,100.0
+2023,Castellà,Homes,Percentatge,100.0
 2015,Castellà,Dones,Percentatge,100.0
 2016,Castellà,Dones,Percentatge,100.0
 2017,Castellà,Dones,Percentatge,100.0
@@ -47,6 +52,7 @@ Year,Idioma,Sexe,Units,Value
 2020,Castellà,Dones,Percentatge,100.0
 2021,Castellà,Dones,Percentatge,99.9
 2022,Castellà,Dones,Percentatge,100.0
+2023,Castellà,Dones,Percentatge,100.0
 2015,Anglès,,Percentatge,44.0
 2016,Anglès,,Percentatge,46.0
 2017,Anglès,,Percentatge,48.0
@@ -55,6 +61,7 @@ Year,Idioma,Sexe,Units,Value
 2020,Anglès,,Percentatge,57.0
 2021,Anglès,,Percentatge,56.6
 2022,Anglès,,Percentatge,56.2
+2023,Anglès,,Percentatge,57.4
 2015,Anglès,Homes,Percentatge,48.6
 2016,Anglès,Homes,Percentatge,50.9
 2017,Anglès,Homes,Percentatge,53.9
@@ -63,6 +70,7 @@ Year,Idioma,Sexe,Units,Value
 2020,Anglès,Homes,Percentatge,63.0
 2021,Anglès,Homes,Percentatge,62.5
 2022,Anglès,Homes,Percentatge,60.9
+2023,Anglès,Homes,Percentatge,62.3
 2015,Anglès,Dones,Percentatge,40.0
 2016,Anglès,Dones,Percentatge,41.6
 2017,Anglès,Dones,Percentatge,42.0
@@ -71,3 +79,4 @@ Year,Idioma,Sexe,Units,Value
 2020,Anglès,Dones,Percentatge,51.5
 2021,Anglès,Dones,Percentatge,51.5
 2022,Anglès,Dones,Percentatge,52.0
+2023,Anglès,Dones,Percentatge,53.1
