@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "City Council investment in million euros",
-                "Private investment in million euros",
-                "Installed power capacity in MWp",
+                "Inversión Ayuntament en millones de euros",
+                "Inversión privada en millones de euros",
+                "Potencia instalada en MWp",
                 ""
               ]
             },
