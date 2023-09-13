@@ -20,7 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Euros",
+                "City Council investment in million euros",
+                "Private investment in million euros",
+                "Installed power capacity in MWp",
                 ""
               ]
             },

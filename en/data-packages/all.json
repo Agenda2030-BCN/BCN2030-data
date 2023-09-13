@@ -6238,7 +6238,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Euros"
+                "City Council investment in million euros",
+                "Installed power capacity in MWp",
+                "Private investment in million euros"
               ]
             },
             "title": "Units"
