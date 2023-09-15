@@ -2767,6 +2767,54 @@
       "title": "Number of energy rating A and B buildings "
     },
     {
+      "path": "2-4-3/data.csv",
+      "name": "2-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          },
+          {
+            "name": "Geographical_origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Catalonia",
+                "Rest of Spain",
+                "Imported",
+                ""
+              ]
+            },
+            "title": "Geographical_origin"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentatge",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Annual volume of local produce sold at the Mercabarna's Central Fruit and Vegetable Market"
+    },
+    {
       "path": "14-2-1/data.csv",
       "name": "14-2-1",
       "profile": "tabular-data-resource",
@@ -8543,30 +8591,6 @@
         ]
       },
       "title": "Inversions en eficiència energètica en proporció al PIB i a la quantia de la inversió estrangera directa en transferències financeres destinades a infraestructura i tecnologia per a serveis de desenvolupament sostenible"
-    },
-    {
-      "path": "2-4-3/data.csv",
-      "name": "2-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Annual volume of local produce sold at the Mercabarna's Central Fruit and Vegetable Market"
     },
     {
       "path": "11-a-1/data.csv",

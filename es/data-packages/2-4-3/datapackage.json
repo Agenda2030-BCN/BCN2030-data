@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Geographical_origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Catalonia",
+                "Rest of Spain",
+                "Imported",
+                ""
+              ]
+            },
+            "title": "Geographical_origin"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

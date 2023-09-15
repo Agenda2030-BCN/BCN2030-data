@@ -11,13 +11,37 @@
       "schema": {
         "fields": [
           {
+            "name": "Geographical_origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Catalonia",
+                "Imported",
+                "Rest of Spain"
+              ]
+            },
+            "title": "Geographical_origin"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
