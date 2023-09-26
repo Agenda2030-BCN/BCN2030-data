@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Catalonia",
-                "Rest of Spain",
-                "Imported",
+                "Catalunya",
+                "Resta d'Espanya",
+                "Importat",
                 ""
               ]
             },
-            "title": "Geographical_origin"
+            "title": "Origen Geogràfic"
           },
           {
             "name": "Units",
