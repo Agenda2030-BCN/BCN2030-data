@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Catalonia",
-                "Rest of Spain",
-                "Imported",
+                "Cataluña",
+                "Resto de España",
+                "Importado",
                 ""
               ]
             },
-            "title": "Geographical_origin"
+            "title": "Origen Geográfico"
           },
           {
             "name": "Units",
