@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Geographical_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cataluña",
+                "Barcelona",
+                ""
+              ]
+            },
+            "title": "Área Geográfica"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
