@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Cataluña",
-                "Barcelona Province",
+                "Provincia de Barcelona",
                 ""
               ]
             },
