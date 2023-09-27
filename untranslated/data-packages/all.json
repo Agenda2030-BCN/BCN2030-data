@@ -3282,7 +3282,7 @@
             "constraints": {
               "enum": [
                 "Catalonia",
-                "Barcelona",
+                "Barcelona Province",
                 ""
               ]
             }
