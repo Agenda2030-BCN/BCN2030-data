@@ -2337,6 +2337,49 @@
       "title": "Resources of the municipal Global Justice programme, allocated to the prevention and mitigation of the effects of climate change"
     },
     {
+      "path": "9-5-2/data.csv",
+      "name": "9-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Geographical_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "European",
+                "Global",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total Number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Barcelona’s position in scientific production (European and world ranking)"
+    },
+    {
       "path": "12-3-2/data.csv",
       "name": "12-3-2",
       "profile": "tabular-data-resource",
@@ -8676,28 +8719,6 @@
         ]
       },
       "title": "Proportion of municipal buildings that are subjected to energy renovation every year "
-    },
-    {
-      "path": "9-5-2/data.csv",
-      "name": "9-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Barcelona’s position in scientific production (European and world ranking)"
     },
     {
       "path": "15-9-1/data.csv",
