@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Any"
+          },
+          {
+            "name": "Geographical_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Barcelona",
+                "Àrea Metropolitana Barcelona",
+                "Catalunya",
+                "Espanya",
+                ""
+              ]
+            },
+            "title": "Àrea Geogràfica"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nombre Total",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

@@ -11,13 +11,38 @@
       "schema": {
         "fields": [
           {
+            "name": "Geographical_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Barcelona",
+                "Barcelona Metropolitan Area",
+                "Catalonia",
+                "Spain"
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total Number"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

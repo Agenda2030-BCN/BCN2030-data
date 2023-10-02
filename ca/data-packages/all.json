@@ -7011,6 +7011,55 @@
       "title": "Gender gap in housework"
     },
     {
+      "path": "9-5-3/data.csv",
+      "name": "9-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          },
+          {
+            "name": "Geographical_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Barcelona",
+                "Àrea Metropolitana Barcelona",
+                "Catalunya",
+                "Espanya",
+                ""
+              ]
+            },
+            "title": "Àrea Geogràfica"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nombre Total",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Technological intensity, measured as the total number of patents per million inhabitants"
+    },
+    {
       "path": "5-3-1/data.csv",
       "name": "5-3-1",
       "profile": "tabular-data-resource",
@@ -9501,30 +9550,6 @@
         ]
       },
       "title": "Index value for the achievement of the 10 targets in the Plan for Play in Barcelona’s Public Spaces 2019-2030 "
-    },
-    {
-      "path": "9-5-3/data.csv",
-      "name": "9-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Technological intensity, measured as the total number of patents per million inhabitants"
     },
     {
       "path": "7-3-2/data.csv",
