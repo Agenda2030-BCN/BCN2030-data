@@ -305,6 +305,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Commitment agreement",
+                "Executed"
+              ]
+            },
+            "title": "Status"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

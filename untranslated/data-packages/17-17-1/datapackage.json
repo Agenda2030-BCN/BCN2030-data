@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitment agreement",
+                "Executed",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

@@ -1,4 +1,7 @@
-Year,Units,Value
-2022,City Council investment in million euros,11.07
-2022,Private investment in million euros,75.62
-2022,Installed power capacity in MWp,87.23
+Year,Status,Units,Value
+2022,Commitment agreement,City Council investment in million euros,11.07
+2022,Commitment agreement,Private investment in million euros,75.62
+2022,Commitment agreement,Installed power capacity in MWp,87.23
+2022,Executed,City Council investment in million euros,0.0
+2022,Executed,Private investment in million euros,3.94
+2022,Executed,Installed power capacity in MWp,5.92
