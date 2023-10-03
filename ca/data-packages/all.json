@@ -314,7 +314,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Executat",
+                "Compromès",
                 "Executat",
                 ""
               ]
