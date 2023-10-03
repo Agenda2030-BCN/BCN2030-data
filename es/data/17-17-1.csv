@@ -1,7 +1,7 @@
-Year,Status,Units,Value
-2022,Commitment agreement,Inversión Ayuntament en millones de euros,11.07
-2022,Commitment agreement,Inversión privada en millones de euros,75.62
-2022,Commitment agreement,Potencia instalada en MWp,87.23
-2022,Executed,Inversión Ayuntament en millones de euros,0.0
-2022,Executed,Inversión privada en millones de euros,3.94
-2022,Executed,Potencia instalada en MWp,5.92
+Year,Estado,Units,Value
+2022,Comprometido,Inversión Ayuntament en millones de euros,11.07
+2022,Comprometido,Inversión privada en millones de euros,75.62
+2022,Comprometido,Potencia instalada en MWp,87.23
+2022,Ejecutado,Inversión Ayuntament en millones de euros,0.0
+2022,Ejecutado,Inversión privada en millones de euros,3.94
+2022,Ejecutado,Potencia instalada en MWp,5.92
