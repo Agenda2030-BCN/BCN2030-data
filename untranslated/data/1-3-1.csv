@@ -1,1 +1,21 @@
-Year,Value
+Year,Geographical_Area,Threshold,Units,Value
+2016-2017,Barcelona,40%,Percentage,
+2017-2018,Barcelona,40%,Percentage,
+2018-2019,Barcelona,40%,Percentage,
+2019-2020,Barcelona,40%,Percentage,
+2020-2021,Barcelona,40%,Percentage,
+2016-2017,Barcelona Metropolitan Area,40%,Percentage,
+2017-2018,Barcelona Metropolitan Area,40%,Percentage,
+2018-2019,Barcelona Metropolitan Area,40%,Percentage,
+2019-2020,Barcelona Metropolitan Area,40%,Percentage,
+2020-2021,Barcelona Metropolitan Area,40%,Percentage,
+2016-2017,Barcelona,60%,Percentage,19.0
+2017-2018,Barcelona,60%,Percentage,19.3
+2018-2019,Barcelona,60%,Percentage,18.2
+2019-2020,Barcelona,60%,Percentage,17.2
+2020-2021,Barcelona,60%,Percentage,19.5
+2016-2017,Barcelona Metropolitan Area,60%,Percentage,21.1
+2017-2018,Barcelona Metropolitan Area,60%,Percentage,21.9
+2018-2019,Barcelona Metropolitan Area,60%,Percentage,20.9
+2019-2020,Barcelona Metropolitan Area,60%,Percentage,20.4
+2020-2021,Barcelona Metropolitan Area,60%,Percentage,22.3

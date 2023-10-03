@@ -11,13 +11,48 @@
       "schema": {
         "fields": [
           {
+            "name": "Geographical_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Barcelona",
+                "Barcelona Metropolitan Area"
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "Threshold",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "40%",
+                "60%"
+              ]
+            },
+            "title": "Threshold"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

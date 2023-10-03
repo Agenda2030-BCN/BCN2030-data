@@ -12,8 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Geographical_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Barcelona",
+                "Área Metropolitana Barcelona",
+                ""
+              ]
+            },
+            "title": "Área Geográfica"
+          },
+          {
+            "name": "Threshold",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40%",
+                "60%",
+                ""
+              ]
+            },
+            "title": "Threshold"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
