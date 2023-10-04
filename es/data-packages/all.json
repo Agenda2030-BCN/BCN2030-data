@@ -2896,24 +2896,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Foreign students",
-                "Special Educational Needs",
+                "Alumnado extrangero",
+                "Necesidades Educativas Especiales",
                 ""
               ]
             },
-            "title": "Type_Segregation"
+            "title": "Tipo de segregación"
           },
           {
             "name": "Education_Level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary school",
-                "Secundary school",
+                "Primaria",
+                "ESO",
                 ""
               ]
             },
-            "title": "Education_Level"
+            "title": "Estudio"
           },
           {
             "name": "Units",
