@@ -1,13 +1,13 @@
-Year,Type_Segregation,Education_Level,Units,Value
-2018-2019,Foreign students,Primary school,Índex,0.44
-2018-2019,Special Educational Needs,Primary school,Índex,0.39
-2018-2019,Foreign students,Secundary school,Índex,0.41
-2018-2019,Special Educational Needs,Secundary school,Índex,0.29
-2021-2022,Foreign students,Primary school,Índex,0.35
-2021-2022,Special Educational Needs,Primary school,Índex,0.44
-2021-2022,Foreign students,Secundary school,Índex,0.34
-2021-2022,Special Educational Needs,Secundary school,Índex,0.4
-2022-2023,Foreign students,Primary school,Índex,0.34
-2022-2023,Special Educational Needs,Primary school,Índex,0.42
-2022-2023,Foreign students,Secundary school,Índex,0.33
-2022-2023,Special Educational Needs,Secundary school,Índex,0.39
+Year,Tipus de segregació,Ensenyament,Units,Value
+2018-2019,Alumnat estranger,Primària,Índex,0.44
+2018-2019,Necessitats Educatives Especials,Primària,Índex,0.39
+2018-2019,Alumnat estranger,ESO,Índex,0.41
+2018-2019,Necessitats Educatives Especials,ESO,Índex,0.29
+2021-2022,Alumnat estranger,Primària,Índex,0.35
+2021-2022,Necessitats Educatives Especials,Primària,Índex,0.44
+2021-2022,Alumnat estranger,ESO,Índex,0.34
+2021-2022,Necessitats Educatives Especials,ESO,Índex,0.4
+2022-2023,Alumnat estranger,Primària,Índex,0.34
+2022-2023,Necessitats Educatives Especials,Primària,Índex,0.42
+2022-2023,Alumnat estranger,ESO,Índex,0.33
+2022-2023,Necessitats Educatives Especials,ESO,Índex,0.39
