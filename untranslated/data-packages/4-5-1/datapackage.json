@@ -12,7 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Type_Segregation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Foreign students",
+                "Special Educational Needs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education_Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary school",
+                "Secundary school",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

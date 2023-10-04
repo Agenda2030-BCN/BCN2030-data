@@ -3,6 +3,7 @@ Air_Pollutants,1,3
 Area,1,2
 Basic_Skill,1,5
 District,2,14
+Education_Level,1,2
 Gender,33,4
 Geographical_Area,7,9
 Geographical_origin,1,3
@@ -17,4 +18,5 @@ Type_Cultural_Service,1,3
 Type_Housing,1,4
 Type_of_boat,1,4
 Type_Public_Transport,1,4
+Type_Segregation,1,2
 Type_Transport,1,6
