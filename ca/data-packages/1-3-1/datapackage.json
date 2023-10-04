@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "40% median",
-                "60% median",
+                "40% mediana",
+                "60% mediana",
                 ""
               ]
             },
-            "title": "Threshold"
+            "title": "Llindar"
           },
           {
             "name": "Units",
