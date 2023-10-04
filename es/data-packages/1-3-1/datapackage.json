@@ -28,7 +28,7 @@
             "title": "Área Geográfica"
           },
           {
-            "name": "Threshold",
+            "name": "Poverty_Threshold",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Umbral"
+            "title": "Poverty_Threshold"
           },
           {
             "name": "Units",

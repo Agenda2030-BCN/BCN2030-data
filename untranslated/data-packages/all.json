@@ -3198,7 +3198,7 @@
             }
           },
           {
-            "name": "Threshold",
+            "name": "Poverty_Threshold",
             "type": "string",
             "constraints": {
               "enum": [

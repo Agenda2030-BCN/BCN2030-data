@@ -23,7 +23,7 @@
             "title": "Geographical Area"
           },
           {
-            "name": "Threshold",
+            "name": "Poverty_Threshold",
             "type": "string",
             "constraints": {
               "enum": [
@@ -32,7 +32,7 @@
                 "60% median"
               ]
             },
-            "title": "Threshold"
+            "title": "Poverty_Threshold"
           },
           {
             "name": "Units",

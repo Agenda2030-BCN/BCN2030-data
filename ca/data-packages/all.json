@@ -3495,7 +3495,7 @@
             "title": "Àrea Geogràfica"
           },
           {
-            "name": "Threshold",
+            "name": "Poverty_Threshold",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3504,7 +3504,7 @@
                 ""
               ]
             },
-            "title": "Llindar"
+            "title": "Poverty_Threshold"
           },
           {
             "name": "Units",
