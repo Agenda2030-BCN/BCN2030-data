@@ -3495,8 +3495,8 @@
             "constraints": {
               "enum": [
                 "",
-                "40%",
-                "60%"
+                "40% median",
+                "60% median"
               ]
             },
             "title": "Threshold"
