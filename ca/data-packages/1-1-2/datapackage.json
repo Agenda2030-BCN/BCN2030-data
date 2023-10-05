@@ -16,18 +16,16 @@
             "title": "Any"
           },
           {
-            "name": "Type_Housing",
+            "name": "Management_Entity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sense sostre",
-                "Sense habitatge",
-                "Habitatge insegur",
-                "Habitatge inadequat",
+                "CDIAP Barcelona Net",
+                "City Council",
                 ""
               ]
             },
-            "title": "Tipus Habitatge"
+            "title": "Management_Entity"
           },
           {
             "name": "Units",
@@ -42,7 +40,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           }
         ]

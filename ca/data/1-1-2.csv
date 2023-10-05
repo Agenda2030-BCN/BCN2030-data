@@ -1,26 +1,17 @@
-Year,Tipus Habitatge,Units,Value
-2015,,Nombre Total,2799
-2015,Sense sostre,Nombre Total,945
-2015,Sense habitatge,Nombre Total,996
-2015,Habitatge insegur,Nombre Total,424
-2015,Habitatge inadequat,Nombre Total,434
-2017,,Nombre Total,3383
-2017,Sense sostre,Nombre Total,1227
-2017,Sense habitatge,Nombre Total,1303
-2017,Habitatge insegur,Nombre Total,438
-2017,Habitatge inadequat,Nombre Total,415
-2019,,Nombre Total,3696
-2019,Sense sostre,Nombre Total,1286
-2019,Sense habitatge,Nombre Total,1350
-2019,Habitatge insegur,Nombre Total,562
-2019,Habitatge inadequat,Nombre Total,498
-2020,,Nombre Total,4564
-2020,Sense sostre,Nombre Total,1587
-2020,Sense habitatge,Nombre Total,1658
-2020,Habitatge insegur,Nombre Total,915
-2020,Habitatge inadequat,Nombre Total,404
-2021,,Nombre Total,4042
-2021,Sense sostre,Nombre Total,1145
-2021,Sense habitatge,Nombre Total,1982
-2021,Habitatge insegur,Nombre Total,575
-2021,Habitatge inadequat,Nombre Total,340
+Year,Management_Entity,Units,Value
+2015,CDIAP Barcelona Net,Nombre Total,7353.0
+2016,CDIAP Barcelona Net,Nombre Total,
+2017,CDIAP Barcelona Net,Nombre Total,
+2018,CDIAP Barcelona Net,Nombre Total,
+2019,CDIAP Barcelona Net,Nombre Total,6671.0
+2020,CDIAP Barcelona Net,Nombre Total,6281.0
+2021,CDIAP Barcelona Net,Nombre Total,6097.0
+2022,CDIAP Barcelona Net,Nombre Total,
+2015,City Council,Nombre Total,774.0
+2016,City Council,Nombre Total,815.0
+2017,City Council,Nombre Total,913.0
+2018,City Council,Nombre Total,1066.0
+2019,City Council,Nombre Total,1179.0
+2020,City Council,Nombre Total,1369.0
+2021,City Council,Nombre Total,1611.0
+2022,City Council,Nombre Total,1738.0

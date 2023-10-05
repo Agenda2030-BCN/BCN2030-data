@@ -4904,18 +4904,16 @@
       "schema": {
         "fields": [
           {
-            "name": "Type_Housing",
+            "name": "Management_Entity",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Homeless",
-                "Inadequate housing",
-                "Roofless",
-                "Unsafe housing"
+                "CDIAP Barcelona Net",
+                "City Council"
               ]
             },
-            "title": "Type Housing"
+            "title": "Management_Entity"
           },
           {
             "name": "Units",
@@ -4930,7 +4928,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
