@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Management_Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CDIAP Barcelona Net",
+                "City Council",
+                ""
+              ]
+            },
+            "title": "Management_Entity"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número Total",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

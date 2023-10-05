@@ -11,13 +11,36 @@
       "schema": {
         "fields": [
           {
+            "name": "Management_Entity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "CDIAP Barcelona Net",
+                "City Council"
+              ]
+            },
+            "title": "Management_Entity"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total Number"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
