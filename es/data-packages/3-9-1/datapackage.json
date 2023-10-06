@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Número Total",
-                "Porcentaje",
                 ""
               ]
             },
@@ -29,7 +28,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Valor"
           }
         ]

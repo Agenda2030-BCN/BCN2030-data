@@ -20,14 +20,13 @@
             "constraints": {
               "enum": [
                 "Total Number",
-                "Percentage",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

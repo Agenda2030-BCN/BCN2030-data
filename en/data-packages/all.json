@@ -5839,7 +5839,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Percentage",
                 "Total Number"
               ]
             },
@@ -5847,7 +5846,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
