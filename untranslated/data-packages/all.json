@@ -4536,12 +4536,14 @@
             "type": "integer"
           },
           {
-            "name": "Management_Entity",
+            "name": "Type_Housing",
             "type": "string",
             "constraints": {
               "enum": [
-                "CDIAP Barcelona Net",
-                "City Council",
+                "Roofless",
+                "Homeless",
+                "Unsafe housing",
+                "Inadequate housing",
                 ""
               ]
             }
@@ -4558,7 +4560,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

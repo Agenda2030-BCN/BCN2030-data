@@ -4956,16 +4956,18 @@
             "title": "Año"
           },
           {
-            "name": "Management_Entity",
+            "name": "Type_Housing",
             "type": "string",
             "constraints": {
               "enum": [
-                "CDIAP Barcelona Net",
-                "City Council",
+                "Sin techo",
+                "Sin vivienda",
+                "Vivienda insegura",
+                "Vivienda inadecuada",
                 ""
               ]
             },
-            "title": "Management_Entity"
+            "title": "Tipo Vivienda"
           },
           {
             "name": "Units",
@@ -4980,7 +4982,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Valor"
           }
         ]
