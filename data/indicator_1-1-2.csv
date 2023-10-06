@@ -1,17 +1,27 @@
-Year,Management_Entity,Units,Value
-2015,CDIAP Barcelona Net,Total Number,7353
-2016,CDIAP Barcelona Net,Total Number,
-2017,CDIAP Barcelona Net,Total Number,
-2018,CDIAP Barcelona Net,Total Number,
-2019,CDIAP Barcelona Net,Total Number,6671
-2020,CDIAP Barcelona Net,Total Number,6281
-2021,CDIAP Barcelona Net,Total Number,6097
-2022,CDIAP Barcelona Net,Total Number,
-2015,City Council,Total Number,774
-2016,City Council,Total Number,815
-2017,City Council,Total Number,913
-2018,City Council,Total Number,1066
-2019,City Council,Total Number,1179
-2020,City Council,Total Number,1369
-2021,City Council,Total Number,1611
-2022,City Council,Total Number,1738
+Year,Type_Housing,Units,Value
+2015,,Total Number,2799
+2015,Roofless,Total Number,945
+2015,Homeless,Total Number,996
+2015,Unsafe housing,Total Number,424
+2015,Inadequate housing,Total Number,434
+2017,,Total Number,3383
+2017,Roofless,Total Number,1227
+2017,Homeless,Total Number,1303
+2017,Unsafe housing,Total Number,438
+2017,Inadequate housing,Total Number,415
+2019,,Total Number,3696
+2019,Roofless,Total Number,1286
+2019,Homeless,Total Number,1350
+2019,Unsafe housing,Total Number,562
+2019,Inadequate housing,Total Number,498
+2020,,Total Number,4564
+2020,Roofless,Total Number,1587
+2020,Homeless,Total Number,1658
+2020,Unsafe housing,Total Number,915
+2020,Inadequate housing,Total Number,404
+2021,,Total Number,4042
+2021,Roofless,Total Number,1145
+2021,Homeless,Total Number,1982
+2021,Unsafe housing,Total Number,575
+2021,Inadequate housing,Total Number,340
+
