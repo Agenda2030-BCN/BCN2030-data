@@ -4961,8 +4961,7 @@
             "constraints": {
               "enum": [
                 "Sin techo",
-                "Sin vivienda",
-                "Vivienda insegura",
+                "Homeless people atended in collective or individual residential facilities",
                 "Vivienda inadecuada",
                 ""
               ]

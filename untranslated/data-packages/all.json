@@ -4541,8 +4541,7 @@
             "constraints": {
               "enum": [
                 "Roofless",
-                "Homeless",
-                "Unsafe housing",
+                "Homeless people atended in collective or individual residential facilities",
                 "Inadequate housing",
                 ""
               ]
