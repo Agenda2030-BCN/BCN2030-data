@@ -1,27 +1,21 @@
 Year,Type_Housing,Units,Value
-2015,,Total Number,2799
-2015,Roofless,Total Number,945
-2015,Homeless,Total Number,996
-2015,Unsafe housing,Total Number,424
-2015,Inadequate housing,Total Number,434
-2017,,Total Number,3383
-2017,Roofless,Total Number,1227
-2017,Homeless,Total Number,1303
-2017,Unsafe housing,Total Number,438
+2016,,Total Number,3231
+2016,Roofless,Total Number,941
+2016,Homeless people atended in collective or individual residential facilities,Total Number,1907
+2016,Inadequate housing,Total Number,383
+2017,,Total Number,3447
+2017,Roofless,Total Number,1026
+2017,Homeless people atended in collective or individual residential facilities,Total Number,2006
 2017,Inadequate housing,Total Number,415
-2019,,Total Number,3696
-2019,Roofless,Total Number,1286
-2019,Homeless,Total Number,1350
-2019,Unsafe housing,Total Number,562
-2019,Inadequate housing,Total Number,498
-2020,,Total Number,4564
-2020,Roofless,Total Number,1587
-2020,Homeless,Total Number,1658
-2020,Unsafe housing,Total Number,915
-2020,Inadequate housing,Total Number,404
-2021,,Total Number,4042
-2021,Roofless,Total Number,1145
-2021,Homeless,Total Number,1982
-2021,Unsafe housing,Total Number,575
+2018,,Total Number,3530
+2018,Roofless,Total Number,956
+2018,Homeless people atended in collective or individual residential facilities,Total Number,2130
+2018,Inadequate housing,Total Number,444
+2021,,Total Number,4043
+2021,Roofless,Total Number,895
+2021,Homeless people atended in collective or individual residential facilities,Total Number,2808
 2021,Inadequate housing,Total Number,340
-
+2022,,Total Number,4197
+2022,Roofless,Total Number,1063
+2022,Homeless people atended in collective or individual residential facilities,Total Number,2803
+2022,Inadequate housing,Total Number,331
