@@ -4961,7 +4961,7 @@
             "constraints": {
               "enum": [
                 "Sense sostre",
-                "Persones sense llar atesa en centres residencials col·lectius o allotjaments individuals",
+                "Població sense llar atesa en centres residencials col·lectius o allotjaments individuals",
                 "Habitatge inadequat",
                 ""
               ]
