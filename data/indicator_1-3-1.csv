@@ -1,22 +1,25 @@
 Year,Geographical_Area,Poverty_Threshold,Units,Value
-2016-2017,Barcelona,40% median,Percentage,
-2017-2018,Barcelona,40% median,Percentage,
-2018-2019,Barcelona,40% median,Percentage,
-2019-2020,Barcelona,40% median,Percentage,
-2020-2021,Barcelona,40% median,Percentage,
-2016-2017,Barcelona Metropolitan Area,40% median,Percentage,
-2017-2018,Barcelona Metropolitan Area,40% median,Percentage,
-2018-2019,Barcelona Metropolitan Area,40% median,Percentage,
-2019-2020,Barcelona Metropolitan Area,40% median,Percentage,
-2020-2021,Barcelona Metropolitan Area,40% median,Percentage,
+2016-2017,Barcelona,40% median,Percentage,7.7
+2017-2018,Barcelona,40% median,Percentage,7.6
+2018-2019,Barcelona,40% median,Percentage,8.9
+2019-2020,Barcelona,40% median,Percentage,8.3
+2020-2021,Barcelona,40% median,Percentage,7.8
+2021-2022,Barcelona,40% median,Percentage,7.6
+2016-2017,Barcelona Metropolitan Area,40% median,Percentage,7.6
+2017-2018,Barcelona Metropolitan Area,40% median,Percentage,8.5
+2018-2019,Barcelona Metropolitan Area,40% median,Percentage,9.9
+2019-2020,Barcelona Metropolitan Area,40% median,Percentage,9.2
+2020-2021,Barcelona Metropolitan Area,40% median,Percentage,10.3
+2021-2022,Barcelona Metropolitan Area,40% median,Percentage,10.0
 2016-2017,Barcelona,60% median,Percentage,19.0
 2017-2018,Barcelona,60% median,Percentage,19.3
 2018-2019,Barcelona,60% median,Percentage,18.2
 2019-2020,Barcelona,60% median,Percentage,17.2
 2020-2021,Barcelona,60% median,Percentage,19.5
+2021-2022,Barcelona,60% median,Percentage,18.6
 2016-2017,Barcelona Metropolitan Area,60% median,Percentage,21.1
 2017-2018,Barcelona Metropolitan Area,60% median,Percentage,21.9
 2018-2019,Barcelona Metropolitan Area,60% median,Percentage,20.9
 2019-2020,Barcelona Metropolitan Area,60% median,Percentage,20.4
 2020-2021,Barcelona Metropolitan Area,60% median,Percentage,22.3
-
+2021-2022,Barcelona Metropolitan Area,60% median,Percentage,21.2
