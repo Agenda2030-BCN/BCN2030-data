@@ -5269,7 +5269,8 @@
                 "Excepcionality",
                 "Normality",
                 "Pre-alert",
-                "Pre-alert2"
+                "Pre-alert2",
+                "Pre-emergency"
               ]
             },
             "title": "Scenario"

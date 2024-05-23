@@ -7,6 +7,7 @@ Year,Escenario,Units,Value
 2020,Normalidad,Number of days,365
 2021,Normalidad,Number of days,365
 2022,Normalidad,Number of days,20
+2023,Normalidad,Number of days,0
 2015,Pre-alerta,Number of days,0
 2016,Pre-alerta,Number of days,85
 2017,Pre-alerta,Number of days,101
@@ -15,6 +16,7 @@ Year,Escenario,Units,Value
 2020,Pre-alerta,Number of days,0
 2021,Pre-alerta,Number of days,0
 2022,Pre-alerta,Number of days,173
+2023,Pre-alerta,Number of days,0
 2015,Pre-alerta2,Number of days,0
 2016,Pre-alerta2,Number of days,0
 2017,Pre-alerta2,Number of days,0
@@ -23,6 +25,7 @@ Year,Escenario,Units,Value
 2020,Pre-alerta2,Number of days,0
 2021,Pre-alerta2,Number of days,0
 2022,Pre-alerta2,Number of days,127
+2023,Pre-alerta2,Number of days,0
 2015,Alerta,Number of days,0
 2016,Alerta,Number of days,0
 2017,Alerta,Number of days,0
@@ -31,6 +34,7 @@ Year,Escenario,Units,Value
 2020,Alerta,Number of days,0
 2021,Alerta,Number of days,0
 2022,Alerta,Number of days,45
+2023,Alerta,Number of days,59
 2015,Excepcionalidad,Number of days,0
 2016,Excepcionalidad,Number of days,0
 2017,Excepcionalidad,Number of days,0
@@ -39,6 +43,16 @@ Year,Escenario,Units,Value
 2020,Excepcionalidad,Number of days,0
 2021,Excepcionalidad,Number of days,0
 2022,Excepcionalidad,Number of days,0
+2023,Excepcionalidad,Number of days,268
+2015,Pre-emergency,Number of days,0
+2016,Pre-emergency,Number of days,0
+2017,Pre-emergency,Number of days,0
+2018,Pre-emergency,Number of days,0
+2019,Pre-emergency,Number of days,0
+2020,Pre-emergency,Number of days,0
+2021,Pre-emergency,Number of days,0
+2022,Pre-emergency,Number of days,0
+2023,Pre-emergency,Number of days,38
 2015,Emergencia,Number of days,0
 2016,Emergencia,Number of days,0
 2017,Emergencia,Number of days,0
@@ -47,3 +61,4 @@ Year,Escenario,Units,Value
 2020,Emergencia,Number of days,0
 2021,Emergencia,Number of days,0
 2022,Emergencia,Number of days,0
+2023,Emergencia,Number of days,0
