@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CDIAP Barcelona Net",
-                "City Council",
+                "Xarxa CDIAP de Barcelona",
+                "IMPD. Ajuntament de Barcelona",
                 ""
               ]
             },
