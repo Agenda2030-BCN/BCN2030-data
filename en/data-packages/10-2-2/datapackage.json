@@ -11,35 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Men",
-                "Women"
-              ]
-            },
-            "title": "Gender"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Group_Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Over 64 years"
+                "Over 64 years",
+                ""
               ]
             },
             "title": "Group Age"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Gender"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage"
+                "Percentage",
+                ""
               ]
             },
             "title": "Units"
@@ -48,11 +53,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

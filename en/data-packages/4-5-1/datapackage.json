@@ -11,36 +11,41 @@
       "schema": {
         "fields": [
           {
-            "name": "Education_Level",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Primary school",
-                "Secundary school"
-              ]
-            },
-            "title": "Education_Level"
+            "title": "Year"
           },
           {
             "name": "Type_Segregation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Foreign students",
-                "Special Educational Needs"
+                "Special Educational Needs",
+                ""
               ]
             },
             "title": "Type_Segregation"
+          },
+          {
+            "name": "Education_Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary school",
+                "Secundary school",
+                ""
+              ]
+            },
+            "title": "Education_Level"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Index"
+                "Index",
+                ""
               ]
             },
             "title": "Units"
@@ -49,11 +54,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

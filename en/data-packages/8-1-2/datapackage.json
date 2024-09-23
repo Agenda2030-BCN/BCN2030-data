@@ -11,18 +11,23 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Aggregate of: water_local development_cross-cutting sustainability",
                 "Commerce_Consumption_Tourism",
-                "Energy",
                 "Housing",
                 "Mobility and air quality",
                 "Urban green spaces",
-                "Waste"
+                "Waste",
+                "Energy",
+                "Aggregate of: water_local development_cross-cutting sustainability",
+                ""
               ]
             },
             "title": "Sector"
@@ -32,9 +37,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Million euros",
-                "Percentage"
+                "Percentage",
+                ""
               ]
             },
             "title": "Units"
@@ -43,11 +48,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
