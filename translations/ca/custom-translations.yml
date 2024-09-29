@@ -9,3 +9,9 @@ management: Direcció
 integrated: Integrat
 descriptionmeta: Aquest lloc web té l’objectiu de difondre online les dades de l’Agenda 2030 de Barcelona, per tal que aquesta informació arribi al públic interessat de la manera més completa, actualitzada, estandarditzada i reutilitzable possible.
 titlemeta: Plataforma d'Indicadors ODS de l'Agenda 2030 de Barcelona
+related-indicators: Indicadors relacionats
+related-indicators-description: Aquí es mostren altres indicadors vinculats al actual per a un anàlisi més complet.
+related-indicators-placeholder: No hi ha altres indicadors relacionats amb aquest.
+publications: Publicacions
+related-publications-description: Aquí es mostren documents i articles relacionats que donen suport a l'indicador seleccionat.
+related-publications-placeholder: No hi ha publicacions disponibles per a aquest indicador.
