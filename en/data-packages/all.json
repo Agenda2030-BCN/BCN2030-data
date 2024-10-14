@@ -7385,6 +7385,41 @@
       "title": "Proportion of education centres that are members of the More Sustainable Schools network (including, nursery, infant, primary, compulsory-secondary (ESO), vocational training, special, higher-secondary and adult schools)"
     },
     {
+      "path": "9-3-3/data.csv",
+      "name": "9-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index (60-73)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Composite indicator on the use of Information and Communication Technologies (ICTs) by SMEs in Barcelona"
+    },
+    {
       "path": "5-2-4/data.csv",
       "name": "5-2-4",
       "profile": "tabular-data-resource",
@@ -9936,30 +9971,6 @@
         ]
       },
       "title": "Proportion of sanitation operations in municipal buildings with water-saving mechanisms "
-    },
-    {
-      "path": "9-3-3/data.csv",
-      "name": "9-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Composite indicator on the use of Information and Communication Technologies (ICTs) by SMEs in Barcelona"
     },
     {
       "path": "17-18-3/data.csv",
