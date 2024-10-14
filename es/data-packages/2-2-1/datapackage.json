@@ -28,6 +28,18 @@
             "title": "Sexo"
           },
           {
+            "name": "Group_Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adults",
+                "0-18 years",
+                ""
+              ]
+            },
+            "title": "Edad del grupo"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

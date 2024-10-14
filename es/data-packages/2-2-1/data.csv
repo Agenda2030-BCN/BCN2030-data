@@ -1,7 +1,11 @@
-Year,Sexo,Units,Value
-2016,Hombres,Percentatge,13.5
-2016,Mujeres,Percentatge,13.6
-2016,,Percentatge,13.5
-2021,Hombres,Percentatge,16.3
-2021,Mujeres,Percentatge,14.4
-2021,,Percentatge,15.3
+Year,Sexo,Edad del grupo,Units,Value
+2016,Hombres,Adults,Percentatge,13.5
+2016,Mujeres,Adults,Percentatge,13.6
+2016,,Adults,Percentatge,13.5
+2021,Hombres,Adults,Percentatge,16.3
+2021,Mujeres,Adults,Percentatge,14.4
+2021,,Adults,Percentatge,15.3
+2016,Hombres,0-18 years,Percentatge,13.5
+2016,Mujeres,0-18 years,Percentatge,13.6
+2021,Hombres,0-18 years,Percentatge,16.3
+2021,Mujeres,0-18 years,Percentatge,14.4

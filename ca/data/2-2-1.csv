@@ -1,7 +1,11 @@
-Year,Sexe,Units,Value
-2016,Homes,Percentatge,13.5
-2016,Dones,Percentatge,13.6
-2016,,Percentatge,13.5
-2021,Homes,Percentatge,16.3
-2021,Dones,Percentatge,14.4
-2021,,Percentatge,15.3
+Year,Sexe,Edat del grup,Units,Value
+2016,Homes,Adults,Percentatge,13.5
+2016,Dones,Adults,Percentatge,13.6
+2016,,Adults,Percentatge,13.5
+2021,Homes,Adults,Percentatge,16.3
+2021,Dones,Adults,Percentatge,14.4
+2021,,Adults,Percentatge,15.3
+2016,Homes,0-18 years,Percentatge,13.5
+2016,Dones,0-18 years,Percentatge,13.6
+2021,Homes,0-18 years,Percentatge,16.3
+2021,Dones,0-18 years,Percentatge,14.4

@@ -26,6 +26,17 @@
             }
           },
           {
+            "name": "Group_Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adults",
+                "0-18 years",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
