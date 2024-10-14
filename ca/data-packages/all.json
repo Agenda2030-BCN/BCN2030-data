@@ -9938,6 +9938,30 @@
       "title": "Proportion of sanitation operations in municipal buildings with water-saving mechanisms "
     },
     {
+      "path": "9-3-3/data.csv",
+      "name": "9-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Any"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Composite indicator on the use of Information and Communication Technologies (ICTs) by SMEs in Barcelona"
+    },
+    {
       "path": "17-18-3/data.csv",
       "name": "17-18-3",
       "profile": "tabular-data-resource",
