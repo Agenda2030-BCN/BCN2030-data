@@ -1084,6 +1084,41 @@
       "title": "Proportion of people over the age of 18 who have a computer (laptop or desktop) at home"
     },
     {
+      "path": "5-2-3/data.csv",
+      "name": "5-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número Total",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "5-2-3"
+    },
+    {
       "path": "15-2-1/data.csv",
       "name": "15-2-1",
       "profile": "tabular-data-resource",
