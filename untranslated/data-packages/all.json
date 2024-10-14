@@ -1010,7 +1010,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total number",
+                "Total Number",
                 ""
               ]
             }
