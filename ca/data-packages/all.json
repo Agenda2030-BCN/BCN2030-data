@@ -5307,7 +5307,7 @@
             "constraints": {
               "enum": [
                 "Adults",
-                "0-18 years old",
+                "0-18 anys",
                 ""
               ]
             },

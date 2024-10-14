@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_jp",
       "schema": {
         "fields": [
           {
@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Adults",
-                "0-18 years old",
+                "0-18 años",
                 ""
               ]
             },
