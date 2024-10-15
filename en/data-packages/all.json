@@ -2094,6 +2094,20 @@
             "title": "Year"
           },
           {
+            "name": "Mean_of_transportation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Walking",
+                "Private motor vehicles",
+                "Bicycles and scooters",
+                "Public transport",
+                ""
+              ]
+            },
+            "title": "Mean_of_transportation"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
