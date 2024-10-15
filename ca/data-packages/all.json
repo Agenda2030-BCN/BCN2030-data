@@ -2094,6 +2094,20 @@
             "title": "Any"
           },
           {
+            "name": "Mean_of_transportation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Walking",
+                "Private motor vehicles",
+                "Bicycles and scooters",
+                "Public transport",
+                ""
+              ]
+            },
+            "title": "Mean_of_transportation"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -2111,7 +2125,7 @@
           }
         ]
       },
-      "title": "Ecomobility (proportion of journey stages made using public and/or non-motorised transport)"
+      "title": "Total modal distribution (proportion of journey stages made by mean of transportation)"
     },
     {
       "path": "11-4-2/data.csv",
