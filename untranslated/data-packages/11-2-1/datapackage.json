@@ -15,19 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Mean_of_transportation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Walking",
-                "Private motor vehicles",
-                "Bicycles and scooters",
-                "Public transport",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
