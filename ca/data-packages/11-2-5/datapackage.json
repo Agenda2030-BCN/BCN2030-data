@@ -22,9 +22,9 @@
               "enum": [
                 "Private motorized",
                 "Taxi",
-                "Public transport",
+                "Transport public",
                 "Bicicle and electric scooter",
-                "Walking",
+                "A peu",
                 "Altres",
                 ""
               ]

@@ -2098,10 +2098,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Walking",
-                "Private motor vehicles",
-                "Bicycles and scooters",
-                "Public transport",
+                "A peu",
+                "Transport privat motoritzat",
+                "Bicicleta i VMP",
+                "Transport public",
                 ""
               ]
             },
@@ -4438,9 +4438,9 @@
               "enum": [
                 "Private motorized",
                 "Taxi",
-                "Public transport",
+                "Transport public",
                 "Bicicle and electric scooter",
-                "Walking",
+                "A peu",
                 "Altres",
                 ""
               ]

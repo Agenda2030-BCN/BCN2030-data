@@ -1,37 +1,37 @@
 Year,Mean_of_transportation,Units,Value
-2015,Walking,Percentatge,43.5
-2016,Walking,Percentatge,35.6
-2017,Walking,Percentatge,34.5
-2018,Walking,Percentatge,40.1
-2019,Walking,Percentatge,42.5
-2020,Walking,Percentatge,48.8
-2021,Walking,Percentatge,45.5
-2022,Walking,Percentatge,44.0
-2023,Walking,Percentatge,42.1
-2015,Private motor vehicles,Percentatge,20.6
-2016,Private motor vehicles,Percentatge,22.9
-2017,Private motor vehicles,Percentatge,22.3
-2018,Private motor vehicles,Percentatge,21.4
-2019,Private motor vehicles,Percentatge,20.1
-2020,Private motor vehicles,Percentatge,21.5
-2021,Private motor vehicles,Percentatge,23.5
-2022,Private motor vehicles,Percentatge,21.3
-2023,Private motor vehicles,Percentatge,19.9
-2015,Bicycles and scooters,Percentatge,1.6
-2016,Bicycles and scooters,Percentatge,2.2
-2017,Bicycles and scooters,Percentatge,2.6
-2018,Bicycles and scooters,Percentatge,2.5
-2019,Bicycles and scooters,Percentatge,2.7
-2020,Bicycles and scooters,Percentatge,3.5
-2021,Bicycles and scooters,Percentatge,3.2
-2022,Bicycles and scooters,Percentatge,3.8
-2023,Bicycles and scooters,Percentatge,3.8
-2015,Public transport,Percentatge,34.2
-2016,Public transport,Percentatge,39.2
-2017,Public transport,Percentatge,40.6
-2018,Public transport,Percentatge,36.0
-2019,Public transport,Percentatge,34.7
-2020,Public transport,Percentatge,26.1
-2021,Public transport,Percentatge,27.8
-2022,Public transport,Percentatge,30.9
-2023,Public transport,Percentatge,34.2
+2015,A peu,Percentatge,43.5
+2016,A peu,Percentatge,35.6
+2017,A peu,Percentatge,34.5
+2018,A peu,Percentatge,40.1
+2019,A peu,Percentatge,42.5
+2020,A peu,Percentatge,48.8
+2021,A peu,Percentatge,45.5
+2022,A peu,Percentatge,44.0
+2023,A peu,Percentatge,42.1
+2015,Transport privat motoritzat,Percentatge,20.6
+2016,Transport privat motoritzat,Percentatge,22.9
+2017,Transport privat motoritzat,Percentatge,22.3
+2018,Transport privat motoritzat,Percentatge,21.4
+2019,Transport privat motoritzat,Percentatge,20.1
+2020,Transport privat motoritzat,Percentatge,21.5
+2021,Transport privat motoritzat,Percentatge,23.5
+2022,Transport privat motoritzat,Percentatge,21.3
+2023,Transport privat motoritzat,Percentatge,19.9
+2015,Bicicleta i VMP,Percentatge,1.6
+2016,Bicicleta i VMP,Percentatge,2.2
+2017,Bicicleta i VMP,Percentatge,2.6
+2018,Bicicleta i VMP,Percentatge,2.5
+2019,Bicicleta i VMP,Percentatge,2.7
+2020,Bicicleta i VMP,Percentatge,3.5
+2021,Bicicleta i VMP,Percentatge,3.2
+2022,Bicicleta i VMP,Percentatge,3.8
+2023,Bicicleta i VMP,Percentatge,3.8
+2015,Transport public,Percentatge,34.2
+2016,Transport public,Percentatge,39.2
+2017,Transport public,Percentatge,40.6
+2018,Transport public,Percentatge,36.0
+2019,Transport public,Percentatge,34.7
+2020,Transport public,Percentatge,26.1
+2021,Transport public,Percentatge,27.8
+2022,Transport public,Percentatge,30.9
+2023,Transport public,Percentatge,34.2
