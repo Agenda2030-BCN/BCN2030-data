@@ -15,3 +15,7 @@ related-indicators-placeholder: No hay otros indicadores relacionados con este.
 publications: Publicaciones
 related-publications-description: Aquí se muestran documentos y artículos relacionados que respaldan el indicador seleccionado.
 related-publications-placeholder: No hay publicaciones disponibles para este indicador.
+progress_not_available: Datos no disponibles
+progress_target_achieved: Objectivo cumplido
+progress_challenges_remain: Desafíos pendientes
+progress_approaching_target: Progresando adecuadamente

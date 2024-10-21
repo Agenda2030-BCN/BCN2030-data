@@ -15,3 +15,7 @@ related-indicators-placeholder: There are no other indicators related to this on
 publications: Publications
 related-publications-description: Here, related documents and articles that support the selected indicator are displayed.
 related-publications-placeholder: There are no publications available for this indicator
+progress_not_available: Not available
+progress_target_achieved: Target achieved
+progress_challenges_remain: Challenges remain
+progress_approaching_target: Approaching target

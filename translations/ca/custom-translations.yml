@@ -15,3 +15,7 @@ related-indicators-placeholder: No hi ha altres indicadors relacionats amb aques
 publications: Publicacions
 related-publications-description: Aquí es mostren documents i articles relacionats que donen suport a l'indicador seleccionat.
 related-publications-placeholder: No hi ha publicacions disponibles per a aquest indicador.
+progress_not_available: Dades no disponibles
+progress_target_achieved: Objectiu assolit
+progress_challenges_remain: Reptes pendents
+progress_approaching_target: Progressant adequadament
