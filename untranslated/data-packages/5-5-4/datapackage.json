@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Management",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Board of directors",
+                "Management position",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

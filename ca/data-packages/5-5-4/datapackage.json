@@ -16,6 +16,18 @@
             "title": "Any"
           },
           {
+            "name": "Management",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Board of directors",
+                "Management position",
+                ""
+              ]
+            },
+            "title": "Management"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
