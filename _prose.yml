@@ -297,7 +297,7 @@ prose:
             scope: source_1
       - name: "source_statistical_classification_1"
         field:
-            element: text
+            element: hidden
             label: "Statistical classification"
             translation_key: metadata_fields.source_statistical_classification_1
             scope: source_1
