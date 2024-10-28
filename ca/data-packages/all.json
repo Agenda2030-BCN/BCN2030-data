@@ -3161,6 +3161,41 @@
       "title": "Number of participatory processes held"
     },
     {
+      "path": "17-19-1/data.csv",
+      "name": "17-19-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Any"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentatge",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Valor"
+          }
+        ]
+      },
+      "title": "Proportion of sectors, districts, autonomous bodies and municipal companies that include the 2030 Agenda’s perspective and indicators in their annual management reports"
+    },
+    {
       "path": "14-b-2/data.csv",
       "name": "14-b-2",
       "profile": "tabular-data-resource",
@@ -8666,30 +8701,6 @@
         ]
       },
       "title": "Proporció d'armes confiscades, trobades o lliurades l'origen o el context de les quals il·lícits han estat determinats o establerts per una autoritat competent, de conformitat amb els instruments internacionals"
-    },
-    {
-      "path": "17-19-1/data.csv",
-      "name": "17-19-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Any"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Valor"
-          }
-        ]
-      },
-      "title": "Proportion of sectors, districts, autonomous bodies and municipal companies that include the 2030 Agenda’s perspective and indicators in their annual management reports"
     },
     {
       "path": "8-4-1/data.csv",

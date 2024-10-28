@@ -2893,6 +2893,38 @@
       "title": "Number of participatory processes held"
     },
     {
+      "path": "17-19-1/data.csv",
+      "name": "17-19-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of sectors, districts, autonomous bodies and municipal companies that include the 2030 Agenda’s perspective and indicators in their annual management reports"
+    },
+    {
       "path": "14-b-2/data.csv",
       "name": "14-b-2",
       "profile": "tabular-data-resource",
@@ -7931,28 +7963,6 @@
         ]
       },
       "title": "global_indicators.16-4-2-title"
-    },
-    {
-      "path": "17-19-1/data.csv",
-      "name": "17-19-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of sectors, districts, autonomous bodies and municipal companies that include the 2030 Agenda’s perspective and indicators in their annual management reports"
     },
     {
       "path": "8-4-1/data.csv",
