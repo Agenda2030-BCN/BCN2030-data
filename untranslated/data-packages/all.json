@@ -2904,14 +2904,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "50",
+                "56",
+                "62",
                 ""
               ]
             }

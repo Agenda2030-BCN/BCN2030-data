@@ -1,1 +1,1 @@
-{"data":{"Year":[2020,2021,2022],"Units":["Percentatge","Percentatge","Percentatge"],"Value":[1,1,1]},"edges":[]}
+{"data":{"Year":["Percentatge","Percentatge","Percentatge"],"Units":["50","56","62"],"Value":[0,3,5]},"edges":[]}

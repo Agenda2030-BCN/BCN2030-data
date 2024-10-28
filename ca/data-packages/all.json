@@ -3172,7 +3172,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Any"
           },
           {
@@ -3180,7 +3180,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentatge",
+                "50",
+                "56",
+                "62",
                 ""
               ]
             },

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Año"
           },
           {
@@ -20,7 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "50",
+                "56",
+                "62",
                 ""
               ]
             },
