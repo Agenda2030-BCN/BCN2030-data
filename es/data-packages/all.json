@@ -3172,7 +3172,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Año"
           },
           {
@@ -3180,9 +3180,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "50",
-                "56",
-                "62",
+                "Porcentaje",
                 ""
               ]
             },
@@ -3190,7 +3188,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           }
         ]
