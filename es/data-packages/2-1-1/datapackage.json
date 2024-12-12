@@ -16,6 +16,18 @@
             "title": "Año"
           },
           {
+            "name": "Geographical_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Barcelona",
+                "Área Metropolitana Barcelona",
+                ""
+              ]
+            },
+            "title": "Área Geográfica"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

@@ -1,8 +1,15 @@
-Year,Units,Value
-2016-2017,Percentatge,2.0
-2017-2018,Percentatge,2.0
-2018-2019,Percentatge,2.8
-2019-2020,Percentatge,4.4
-2020-2021,Percentatge,4.8
-2021-2022,Percentatge,5.5
-2022-2023,Percentatge,6.2
+Year,Àrea Geogràfica,Units,Value
+2016-2017,Barcelona,Percentatge,2.0
+2017-2018,Barcelona,Percentatge,2.0
+2018-2019,Barcelona,Percentatge,2.8
+2019-2020,Barcelona,Percentatge,4.4
+2020-2021,Barcelona,Percentatge,4.8
+2021-2022,Barcelona,Percentatge,5.5
+2022-2023,Barcelona,Percentatge,6.2
+2016-2017,Àrea Metropolitana Barcelona,Percentatge,2.3
+2017-2018,Àrea Metropolitana Barcelona,Percentatge,2.9
+2018-2019,Àrea Metropolitana Barcelona,Percentatge,2.9
+2019-2020,Àrea Metropolitana Barcelona,Percentatge,3.3
+2020-2021,Àrea Metropolitana Barcelona,Percentatge,4.8
+2021-2022,Àrea Metropolitana Barcelona,Percentatge,5.7
+2022-2023,Àrea Metropolitana Barcelona,Percentatge,5.9

@@ -2734,6 +2734,17 @@
             "type": "string"
           },
           {
+            "name": "Geographical_Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Barcelona",
+                "Barcelona Metropolitan Area",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
