@@ -16,11 +16,32 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
                 "Total Number per 100.000 inhabitants",
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "26.4",
+                "32.4",
+                "24.5",
+                "20.8",
+                "28.7",
+                "19.1",
+                "20.7",
+                "19.9",
+                "Number per 100.000 inhabitants",
                 ""
               ]
             },
