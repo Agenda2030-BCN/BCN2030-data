@@ -2182,7 +2182,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total Number per 100.000 inhabitants",
                 "Men",
                 "Women",
                 ""
@@ -2194,14 +2193,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "26.4",
-                "32.4",
-                "24.5",
-                "20.8",
-                "28.7",
-                "19.1",
-                "20.7",
-                "19.9",
+                "Total Number per 100.000 inhabitants",
                 "Number per 100.000 inhabitants",
                 ""
               ]
