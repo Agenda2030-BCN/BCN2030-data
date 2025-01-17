@@ -6438,7 +6438,6 @@
             "constraints": {
               "enum": [
                 "Número total per 100.000 habitants",
-                "Number per 100.000 inhabitants",
                 ""
               ]
             },
