@@ -6421,11 +6421,24 @@
             "title": "Año"
           },
           {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "Número total por 100.000 habitantes",
+                "Number per 100.000 inhabitants",
                 ""
               ]
             },

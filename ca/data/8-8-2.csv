@@ -1,9 +1,27 @@
-Year,Units,Value
-2015,Número total per 100.000 habitants,84.9
-2016,Número total per 100.000 habitants,87.3
-2017,Número total per 100.000 habitants,96.2
-2018,Número total per 100.000 habitants,96.6
-2019,Número total per 100.000 habitants,95.5
-2020,Número total per 100.000 habitants,37.1
-2021,Número total per 100.000 habitants,41.1
-2022,Número total per 100.000 habitants,49.7
+Year,Sexe,Units,Value
+2015,,Número total per 100.000 habitants,84.9
+2016,,Número total per 100.000 habitants,87.3
+2017,,Número total per 100.000 habitants,96.2
+2018,,Número total per 100.000 habitants,96.6
+2019,,Número total per 100.000 habitants,95.5
+2020,,Número total per 100.000 habitants,37.1
+2021,,Número total per 100.000 habitants,41.1
+2022,,Número total per 100.000 habitants,49.7
+2015,Homes,Number per 100.000 inhabitants,66.1
+2016,Homes,Number per 100.000 inhabitants,65.3
+2017,Homes,Number per 100.000 inhabitants,68.2
+2018,Homes,Number per 100.000 inhabitants,68.4
+2019,Homes,Number per 100.000 inhabitants,64.2
+2020,Homes,Number per 100.000 inhabitants,27.9
+2021,Homes,Number per 100.000 inhabitants,31.0
+2022,Homes,Number per 100.000 inhabitants,44.2
+2023,Homes,Number per 100.000 inhabitants,51.2
+2015,Dones,Number per 100.000 inhabitants,110.6
+2016,Dones,Number per 100.000 inhabitants,106.7
+2017,Dones,Number per 100.000 inhabitants,122.7
+2018,Dones,Number per 100.000 inhabitants,124.2
+2019,Dones,Number per 100.000 inhabitants,124.7
+2020,Dones,Number per 100.000 inhabitants,48.1
+2021,Dones,Number per 100.000 inhabitants,49.8
+2022,Dones,Number per 100.000 inhabitants,54.6
+2023,Dones,Number per 100.000 inhabitants,98.7

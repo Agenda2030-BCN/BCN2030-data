@@ -16,11 +16,24 @@
             "title": "Any"
           },
           {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Homes",
+                "Dones",
+                ""
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "Número total per 100.000 habitants",
+                "Number per 100.000 inhabitants",
                 ""
               ]
             },
